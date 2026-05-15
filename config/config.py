@@ -1,10 +1,16 @@
-# Database connection
+import os
+from dotenv import load_dotenv
+
+# 1. This line loads your .env file into the system
+load_dotenv()
+
+# 2. These lines pull the actual values from your .env
 DB_CONFIG = {
-    "host": "localhost",
-    "port": 5432,
-    "database": "your_database",   # <-- change this
-    "user": "admin",               # <-- change this
-    "password": "your_password",   # <-- change this
+    "host": os.getenv("DB_HOST", "localhost"),
+    "port": int(os.getenv("DB_PORT", 5432)),
+    "database": os.getenv("DB_NAME"),
+    "user": os.getenv("DB_USER"),
+    "password": os.getenv("DB_PASSWORD"),
 }
 
 SCHEMA = "ml_schema"
@@ -18,12 +24,15 @@ LOCKS_PATH          = "locks/"
 LOGS_PATH           = "logs/"
 
 # ML settings
-TARGET_REGRESSION      = "price_da"
+TARGET_REGRESSION      = "price_dh"
 TARGET_CLASSIFICATION  = "category"
 TEST_SIZE              = 0.2
 RANDOM_STATE           = 42
 
-# Columns as seen in the OBT table
+# Columns
 CATEGORICAL_COLS = ["category", "city", "district"]
-NUMERICAL_COLS   = ["surface_m2", "rooms", "bathrooms", "floor",
-                    "property_age_years", "price_per_m2"]
+NUMERICAL_COLS   = [
+    "surface_m2", "rooms", "bathrooms", "floor", 
+    "property_age_years", "surface_per_room", 
+    "city_avg_price", "district_avg_price"
+]
