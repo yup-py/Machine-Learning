@@ -27,7 +27,7 @@ def get_connection():
 
 
 def _run_extraction(save_csv: bool) -> pd.DataFrame:
-    # Internal — actual extraction logic (called inside the lock)
+    # Internal actual extraction logic
     conn = get_connection()
     query = f"SELECT * FROM {OBT_TABLE};"
     logger.info(f"[extraction] Query: {query}")
@@ -52,9 +52,8 @@ def extract_obt(save_csv: bool = True, force: bool = False) -> pd.DataFrame:
     """
     Pull the full OBT table from ml_schema.
     Locked per day — skips if already ran successfully today (unless force=True)
-
     save_csv : save a local CSV snapshot in data/raw/
-    force    : re-run even if today's lock says done
+    force : re-run even if today's lock says done
     """
     try:
         with LockManager(LOCK_NAME, force=force):
@@ -67,7 +66,7 @@ def extract_obt(save_csv: bool = True, force: bool = False) -> pd.DataFrame:
 
 
 def load_from_csv() -> pd.DataFrame:
-    # Load the local CSV snapshot without hitting the database.
+    # Load the local CSV snapshot
     if not os.path.exists(RAW_DATA_PATH):
         raise FileNotFoundError(
             f"No local snapshot at {RAW_DATA_PATH}. Run extract_obt() first."
