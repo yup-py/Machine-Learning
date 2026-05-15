@@ -1,0 +1,1327 @@
+category,price_dh,city,district,surface_m2,rooms,bathrooms,floor,property_age_years,price_per_m2
+Appartement,51045000.0,Agadir,Tassila,96,3.0,0.0,,,531718.75
+Appartement,21200000.0,Rabat,Autre secteur,107,3.0,2.0,,,198130.84112149532
+Appartement,41498000.0,Marrakech,Guéliz,65,1.0,1.0,,,638430.7692307692
+Appartement,11100000.0,Kénitra,Mimosas,110,3.0,2.0,,,100909.09090909091
+Appartement,311500.0,Marrakech,Hivernage,105,3.0,2.0,,,2966.6666666666665
+Appartement,960000.0,Temara,Autre secteur,128,3.0,1.0,,,7500.0
+Appartement,212000.0,Marrakech,Autre secteur,83,2.0,2.0,,,2554.2168674698796
+Appartement,11500000.0,Marrakech,Guéliz,61,1.0,1.0,,,188524.59016393442
+Appartement,5750000.0,Casablanca,Casablanca Finance City,58,1.0,0.0,,,99137.93103448275
+Appartement,21500000.0,Casablanca,Bachkou,106,2.0,2.0,,,202830.18867924527
+Appartement,2940000.0,El Mansouria,Toute la ville,78,2.0,2.0,,,37692.307692307695
+Villa_Riad,3600000.0,Marrakech,Route de Tahanaoute,260,3.0,4.0,,,13846.153846153846
+Villa_Riad,3669000.0,Marrakech,Route de Tahanaoute,246,3.0,4.0,,,14914.634146341463
+Villa_Riad,1900000.0,Tétouan,Autre secteur,1400,4.0,2.0,,,1357.142857142857
+Villa_Riad,8000000.0,Marrakech,Bouaakkaz,487,6.0,5.0,,,16427.104722792606
+Villa_Riad,1100000.0,Fès,Oued Fès,300,3.0,2.0,,,3666.6666666666665
+Villa_Riad,8300000.0,Marrakech,Hivernage,1450,5.0,5.0,,,5724.137931034483
+Villa_Riad,3900000.0,El Mansouria,Toute la ville,250,4.0,3.0,,,15600.0
+Villa_Riad,4900000.0,Agadir,Haut-Founty,550,5.0,6.0,,,8909.09090909091
+Villa_Riad,3500000.0,Marrakech,Route d'Ourika,300,5.0,3.0,,,11666.666666666668
+Villa_Riad,5350000.0,Fès,Centre,322,4.0,5.0,,,16614.906832298137
+Villa_Riad,2200000.0,Marrakech,Hay Targa,340,5.0,4.0,,,6470.588235294118
+Villa_Riad,6350000.0,Dar Bouazza,Toute la ville,460,5.0,4.0,,,13804.347826086958
+Villa_Riad,8700000.0,Temara,Harhoura,324,4.0,4.0,,,26851.85185185185
+Villa_Riad,2850000.0,Dakhla,Toute la ville,298,5.0,5.0,,,9563.758389261746
+Villa_Riad,6700000.0,Marrakech,Route d'Amezmiz,1000,5.0,6.0,,,6700.0
+Villa_Riad,6500000.0,El Menzeh,Toute la ville,480,4.0,4.0,,,13541.666666666668
+Villa_Riad,2600000.0,Asilah,Toute la ville,210,5.0,2.0,,,12380.952380952382
+Villa_Riad,6900000.0,Temara,Harhoura,501,5.0,5.0,,,13772.45508982036
+Villa_Riad,2100000.0,Had Soualem,Toute la ville,200,3.0,3.0,,,10500.0
+Villa_Riad,2890000.0,Casablanca,Aïn Borja,289,4.0,2.0,,,10000.0
+Villa_Riad,2300000.0,Marrakech,Route de Fès,230,6.0,7.0,,,10000.0
+Villa_Riad,8100000.0,Rabat,Hay Riad,350,4.0,3.0,,,23142.85714285714
+Villa_Riad,2500000.0,Casablanca,Route d'El Jadida,260,6.0,3.0,,,9615.384615384615
+Villa_Riad,3400000.0,Casablanca,Aïn Chock,183,4.0,2.0,,,18579.234972677597
+Villa_Riad,2920000.0,Nouaceur,Toute la ville,722,3.0,1.0,,,4044.321329639889
+Villa_Riad,4000000.0,Marrakech,Route de Casablanca,309,7.0,4.0,,,12944.983818770226
+Villa_Riad,4900000.0,Casablanca,Sidi Maarouf,251,4.0,4.0,,,19521.91235059761
+Villa_Riad,3000000.0,Marrakech,M'Hamid,300,7.0,3.0,,,10000.0
+Villa_Riad,1734000.0,Marrakech,Guéliz,102,1.0,2.0,,,17000.0
+Appartement,3900000.0,Kénitra,Maamora,121,3.0,1.0,,,32231.404958677685
+Appartement,22300000.0,Marrakech,Autre secteur,84,2.0,2.0,,,265476.1904761905
+Appartement,23500000.0,Tanger,Malabata,120,3.0,2.0,,,195833.33333333334
+Appartement,31800000.0,Marrakech,Guéliz,117,3.0,3.0,,,271794.8717948718
+Appartement,210000.0,Rabat,Agdal,65,1.0,1.0,,,3230.769230769231
+Appartement,1400000.0,Agadir,Haut-Founty,97,3.0,2.0,,,14432.98969072165
+Appartement,9600000.0,Casablanca,Beauséjour,46,,1.0,,,208695.65217391305
+Appartement,5770000.0,Casablanca,Casablanca Finance City,50,1.0,1.0,,,115400.0
+Appartement,1600000.0,Mohammedia,Nassim,70,2.0,1.0,,,22857.14285714286
+Appartement,1698500.0,Marrakech,Route d'Amezmiz,39,1.0,1.0,,,43551.282051282054
+Villa_Riad,3699000.0,Marrakech,Route de Tahanaoute,246,3.0,4.0,,,15036.58536585366
+Villa_Riad,8600000.0,Marrakech,Agdal,560,5.0,4.0,,,15357.142857142857
+Villa_Riad,4500000.0,Marrakech,Mabrouka,270,4.0,4.0,,,16666.666666666668
+Villa_Riad,3500000.0,Marrakech,Route d'Amezmiz,260,4.0,3.0,,,13461.538461538463
+Villa_Riad,7900000.0,Rabat,Hay Nahda,244,3.0,4.0,,,32377.049180327867
+Villa_Riad,5500000.0,Casablanca,Sidi Maarouf,350,7.0,3.0,,,15714.285714285714
+Villa_Riad,4600000.0,Dar Bouazza,Toute la ville,305,3.0,4.0,,,15081.967213114754
+Appartement,2520000.0,Fès,Tghat,100,3.0,2.0,,,25200.0
+Appartement,11267000.0,Marrakech,Guéliz,51,1.0,1.0,,,220921.568627451
+Appartement,4295000.0,Tanger,Al Irfane 2,47,2.0,1.0,,,91382.97872340426
+Appartement,21700000.0,Marrakech,Guéliz,94,2.0,2.0,,,230851.06382978722
+Appartement,213000.0,Marrakech,Guéliz,120,3.0,2.0,,,1775.0
+Appartement,11250000.0,Casablanca,Palmier,53,1.0,1.0,,,212264.15094339623
+Appartement,32255000.0,Casablanca,Californie,143,3.0,2.0,,,225559.44055944055
+Appartement,312500.0,Casablanca,Aïn Chock,99,2.0,2.0,,,3156.5656565656564
+Villa_Riad,5400000.0,Dar Bouazza,Toute la ville,490,4.0,3.0,,,11020.408163265305
+Appartement,22475000.0,Marrakech,Route de Casablanca,154,3.0,3.0,,,145941.55844155845
+Appartement,3970000.0,Casablanca,Palmier,33,1.0,1.0,,,120303.0303030303
+Appartement,32950000.0,Casablanca,Triangle d'Or,200,3.0,3.0,,,164750.0
+Appartement,3250000.0,Rabat,Hay Riad,144,3.0,2.0,,,22569.444444444445
+Appartement,2150000.0,Marrakech,Guéliz,140,2.0,2.0,,,15357.142857142857
+Appartement,11100000.0,Sidi Rahal,Toute la ville,108,2.0,2.0,,,102777.77777777778
+Appartement,5950000.0,Casablanca,Belvédère,105,2.0,2.0,,,56666.666666666664
+Appartement,480000.0,Temara,Wifak,37,1.0,1.0,,,12972.972972972973
+Appartement,311000.0,Rabat,Hay Riad,50,1.0,2.0,,,6220.0
+Appartement,31200000.0,Casablanca,Sidi Maarouf,118,3.0,2.0,,,264406.77966101695
+Appartement,21300000.0,Casablanca,Palmier,62,2.0,2.0,,,343548.3870967742
+Appartement,32480000.0,Casablanca,Racine,186,3.0,3.0,,,174623.6559139785
+Appartement,11990000.0,Casablanca,2 Mars,167,3.0,3.0,,,71796.40718562875
+Appartement,2650000.0,Casablanca,Ain Sebaa,75,2.0,1.0,,,35333.333333333336
+Appartement,2690000.0,Casablanca,Autre secteur,67,2.0,1.0,,,40149.253731343284
+Appartement,31180000.0,Casablanca,Sidi Maarouf,100,3.0,2.0,,,311800.0
+Appartement,21300000.0,Casablanca,Bourgogne,43,1.0,1.0,,,495348.83720930235
+Appartement,4350000.0,Casablanca,Ain Sebaa,111,,,,,39189.18918918919
+Villa_Riad,4400000.0,Casablanca,Ain Sebaa,320,6.0,4.0,,,13750.0
+Villa_Riad,850000.0,Marrakech,Route de Fès,526,4.0,3.0,,,1615.9695817490494
+Villa_Riad,3300000.0,Tanger,Ziatene,210,4.0,4.0,,,15714.285714285714
+Villa_Riad,6300000.0,Casablanca,Hay Hassani,605,4.0,3.0,,,10413.223140495867
+Villa_Riad,7000000.0,Marrakech,Ancienne Médina,162,6.0,4.0,,,43209.87654320987
+Villa_Riad,4400000.0,Marrakech,Autre secteur,283,4.0,4.0,,,15547.703180212015
+Villa_Riad,6000000.0,Dar Bouazza,Toute la ville,200,4.0,5.0,,,30000.0
+Villa_Riad,4320000.0,Casablanca,Laimoune,340,4.0,4.0,,,12705.882352941177
+Appartement,21150000.0,Marrakech,Hivernage,51,1.0,1.0,,,414705.8823529412
+Appartement,11209700.0,Marrakech,Guéliz,60,2.0,2.0,,,186828.33333333334
+Appartement,41500000.0,Casablanca,Gauthier,97,2.0,2.0,,,427835.05154639174
+Appartement,4360000.0,Settat,Hay Al Kamal,102,2.0,1.0,,,42745.098039215685
+Appartement,11664800.0,Agadir,Hay Salam,118,4.0,0.0,,,98854.2372881356
+Appartement,41200000.0,Marrakech,Guéliz,60,1.0,1.0,,,686666.6666666666
+Appartement,210000.0,Bouskoura,Ville verte,100,2.0,2.0,,,2100.0
+Appartement,21100000.0,Tanger,Malabata,75,2.0,1.0,,,281333.3333333333
+Appartement,4960000.0,Tanger,Du Golf,79,2.0,1.0,,,62784.81012658228
+Appartement,1740000.0,Saidia,Toute la ville,74,2.0,1.0,,,23513.513513513513
+Appartement,12800000.0,Bouskoura,Ville verte,140,3.0,3.0,,,91428.57142857143
+Appartement,11750000.0,Casablanca,Bourgogne,94,2.0,0.0,,,125000.0
+Appartement,2400000.0,Marrakech,M'Hamid,65,2.0,2.0,,,36923.07692307692
+Appartement,110000.0,Casablanca,Bourgogne,127,3.0,2.0,,,866.1417322834645
+Appartement,33750000.0,Casablanca,Racine,190,4.0,3.0,,,177631.57894736843
+Appartement,414500.0,Marrakech,Hivernage,85,2.0,2.0,,,4876.470588235294
+Appartement,4000000.0,Bouskoura,Ville verte,269,3.0,3.0,,,14869.888475836431
+Appartement,1400000.0,Cabo Negro,Toute la ville,75,1.0,1.0,,,18666.666666666668
+Appartement,41500000.0,Casablanca,Maârif Extension,123,3.0,2.0,,,337398.3739837398
+Appartement,310000.0,Marrakech,Guéliz,120,2.0,2.0,,,2583.3333333333335
+Appartement,51078000.0,Marrakech,Hay Izdihar,77,2.0,2.0,,,663350.6493506493
+Appartement,21650000.0,Casablanca,Bourgogne,100,2.0,2.0,,,216500.0
+Appartement,24700000.0,Rabat,Souissi,135,3.0,2.0,,,182962.96296296295
+Appartement,1600000.0,Marrakech,Route de Tahanaoute,58,1.0,1.0,,,27586.206896551725
+Appartement,21800000.0,Casablanca,Val Fleuri,126,3.0,2.0,,,173015.87301587302
+Appartement,1850000.0,Sidi Bouknadel,Toute la ville,130,2.0,2.0,,,14230.76923076923
+Appartement,21350000.0,Marrakech,Hay Izdihar,96,2.0,2.0,,,222395.83333333334
+Villa_Riad,8500000.0,Marrakech,Route de Tahanaoute,560,5.0,6.0,,,15178.57142857143
+Villa_Riad,6500000.0,Tanger,Ziatene,319,5.0,4.0,,,20376.17554858934
+Villa_Riad,3800000.0,Marrakech,Hay Targa,485,5.0,4.0,,,7835.051546391753
+Villa_Riad,2700000.0,Kénitra,kasbat al mahdia,301,4.0,4.0,,,8970.099667774086
+Villa_Riad,4600000.0,Casablanca,Aïn Chock,300,5.0,5.0,,,15333.333333333332
+Villa_Riad,4200000.0,Marrakech,Assif,442,13.0,4.0,,,9502.262443438914
+Villa_Riad,3800000.0,Casablanca,Polo,270,5.0,3.0,,,14074.074074074075
+Maison,3700000.0,Tanger,Ahlane,134,6.0,3.0,,,27611.940298507463
+Villa_Riad,5300000.0,Marrakech,Route d'Ourika,500,4.0,4.0,,,10600.0
+Villa_Riad,7400000.0,Rabat,Hay Riad,350,3.0,3.0,,,21142.85714285714
+Villa_Riad,2250000.0,Sidi Rahal,Toute la ville,220,4.0,3.0,,,10227.272727272726
+Maison,2200000.0,Mohammedia,Autre secteur,278,4.0,4.0,,,7913.669064748202
+Maison,3500000.0,Marrakech,Route d'Amezmiz,260,3.0,4.0,,,13461.538461538463
+Maison,1110000.0,Skhirat,Ain el Hayat,100,6.0,4.0,,,11100.0
+Maison,2200000.0,Casablanca,Sidi Maarouf,72,5.0,4.0,,,30555.555555555555
+Maison,2300000.0,Casablanca,Florida,72,4.0,4.0,,,31944.444444444445
+Maison,2000000.0,Agadir,Autre secteur,90,5.0,3.0,,,22222.222222222223
+Maison,3100000.0,Tanger,Autre secteur,300,5.0,3.0,,,10333.333333333332
+Maison,850000.0,Fès,Ancienne Médina,252,4.0,4.0,,,3373.0158730158732
+Maison,1200000.0,Agadir,Autre secteur,75,3.0,3.0,,,16000.0
+Maison,1380000.0,Oujda,Andalous,410,5.0,4.0,,,3365.8536585365855
+Maison,960000.0,Oujda,Boustane,180,4.0,2.0,,,5333.333333333333
+Maison,260000.0,Bir Jdid,Toute la ville,350,1.0,1.0,,,742.8571428571429
+Maison,300000.0,Tétouan,Safir,220,3.0,1.0,,,1363.6363636363637
+Maison,950000.0,Tiznit,Toute la ville,81,2.0,2.0,,,11728.395061728395
+Maison,3399000.0,Marrakech,Route de Fès,1700,4.0,3.0,,,1999.4117647058824
+Maison,3500000.0,Marrakech,Route de Tahanaoute,260,4.0,3.0,,,13461.538461538463
+Maison,2500000.0,Salé,Hay Chmaou,328,3.0,3.0,,,7621.951219512195
+Maison,111111.0,Tanger,Ahlane,134,6.0,3.0,,,829.1865671641791
+Maison,3500000.0,Marrakech,Route d'Amezmiz,260,4.0,3.0,,,13461.538461538463
+Maison,790000.0,Midelt,Toute la ville,180,7.0,2.0,,,4388.888888888889
+Maison,1380000.0,Oujda,Andalous,400,5.0,4.0,,,3450.0
+Maison,2500000.0,Casablanca,Sidi Bernoussi,88,7.0,3.0,,,28409.090909090908
+Maison,680000.0,Laâyoune,Toute la ville,300,3.0,2.0,,,2266.6666666666665
+Maison,780000.0,Meknès,Autre secteur,90,2.0,1.0,,,8666.666666666666
+Maison,2900000.0,Temara,Skikina,340,,,,,8529.411764705883
+Maison,2200000.0,Salé,Hay Salam,110,9.0,,,,20000.0
+Maison,720000.0,Marrakech,Hay Izdihar,72,5.0,4.0,,,10000.0
+Maison,1500000.0,El Jadida,Autre secteur,156,7.0,4.0,,,9615.384615384615
+Maison,960000.0,Taza,Toute la ville,260,8.0,2.0,,,3692.3076923076924
+Maison,600000.0,Safi,Ourida 1 et 2,62,5.0,2.0,,,9677.41935483871
+Maison,320000.0,Bouznika,Autre secteur,38,1.0,1.0,,,8421.052631578947
+Commerce,3200000.0,Marrakech,Azli,260,,,,,12307.692307692309
+Bureau_Plateau,1780000.0,Tanger,Drissia,165,,,,,10787.878787878788
+Bureau_Plateau,7770000.0,Kénitra,Centre,72,,0.0,,,107916.66666666667
+Bureau_Plateau,41350000.0,Safi,Autre secteur,167,,2.0,,,247604.79041916167
+Bureau_Plateau,51900000.0,Casablanca,Quartier des Hôpitaux,147,,2.0,,,353061.2244897959
+Bureau_Plateau,62570000.0,Casablanca,Palmier,123,,,,,508699.18699186994
+Bureau_Plateau,2820000.0,Casablanca,Abdelmoumen,94,2.0,1.0,,,30000.0
+Bureau_Plateau,11350000.0,Casablanca,Bourgogne,106,,,,,107075.47169811321
+Bureau_Plateau,4559000.0,Agadir,Tassila,132,,,,,34537.87878787879
+Bureau_Plateau,51169500.0,Agadir,Abattoirs,55,,,,,930354.5454545454
+Bureau_Plateau,2540000.0,Casablanca,Ain Sebaa,46,,,,,55217.391304347824
+Bureau_Plateau,3529000.0,Mohammedia,Wafa,100,,0.0,,,35290.0
+Bureau_Plateau,2720000.0,Casablanca,Ain Sebaa,61,,1.0,,,44590.16393442623
+Bureau_Plateau,770000.0,Casablanca,Bourgogne,42,,,,,18333.333333333332
+Bureau_Plateau,1200000.0,Casablanca,Roches Noires,88,,,,,13636.363636363636
+Bureau_Plateau,21950000.0,Casablanca,Racine,110,,,,,199545.45454545456
+Bureau_Plateau,41570000.0,Casablanca,Centre Ville,63,,,,,659841.2698412698
+Bureau_Plateau,11100000.0,Casablanca,Autre secteur,52,,1.0,,,213461.53846153847
+Bureau_Plateau,1130000.0,Casablanca,Centre Ville,61,,,,,18524.590163934427
+Bureau_Plateau,33000000.0,Casablanca,Mers Sultan,2666,,,,,12378.094523630907
+Bureau_Plateau,1700000.0,Casablanca,Maarif,129,,,,,13178.29457364341
+Bureau_Plateau,31040000.0,Casablanca,Roches Noires,80,,2.0,,,388000.0
+Bureau_Plateau,31250000.0,Marrakech,Massira 1,108,,,,,289351.85185185185
+Bureau_Plateau,22940000.0,Casablanca,Quartier des Hôpitaux,210,,1.0,,,109238.09523809524
+Bureau_Plateau,3785000.0,Mohammedia,Centre Ville,52,,,,,72788.46153846153
+Bureau_Plateau,690000.0,Casablanca,Mers Sultan,50,,1.0,,,13800.0
+Bureau_Plateau,11315000.0,Mohammedia,Centre Ville,88,,,,,128579.54545454546
+Bureau_Plateau,31025000.0,Mohammedia,Centre Ville,68,,,,,456250.0
+Bureau_Plateau,1560000.0,Kénitra,Centre,50,,1.0,,,31200.0
+Bureau_Plateau,21950000.0,Casablanca,Maarif,96,,0.0,,,228645.83333333334
+Bureau_Plateau,4500000.0,Rabat,Hay Riad,139,,2.0,,,32374.10071942446
+Bureau_Plateau,4725000.0,Mohammedia,Centre Ville,55,,,,,85909.09090909091
+Bureau_Plateau,31100000.0,Casablanca,Ben Ejdia,114,,2.0,,,272807.01754385966
+Bureau_Plateau,1530000.0,Casablanca,Oulfa,62,,1.0,,,24677.41935483871
+Bureau_Plateau,32180000.0,Casablanca,Florida,198,,1.0,,,162525.25252525252
+Commerce,1950000.0,Casablanca,Almaz,191,,,,,10209.424083769634
+Commerce,1600000.0,Ben Guerir,Toute la ville,253,,,,,6324.110671936759
+Commerce,450000.0,Casablanca,Ain Sebaa,30,,,,,15000.0
+Commerce,1200000.0,Marrakech,Massira 1,140,,,,,8571.42857142857
+Commerce,250000.0,Marrakech,Azzouzia,20,,,,,12500.0
+Commerce,340000.0,Marrakech,Route d'Ourika,21,,,,,16190.47619047619
+Commerce,2500000.0,Marrakech,Guéliz,60,,,,,41666.666666666664
+Commerce,1020000.0,Casablanca,Roches Noires,33,,,,,30909.090909090908
+Commerce,1810000.0,Marrakech,Guéliz,110,,,,,16454.545454545456
+Commerce,400000.0,Casablanca,Autre secteur,24,,,,,16666.666666666668
+Commerce,310000.0,Casablanca,Sidi Othmane,46,,,,,6739.130434782609
+Commerce,1180000.0,El Jadida,Centre,152,,,,,7763.1578947368425
+Commerce,400000.0,Casablanca,Autre secteur,24,,,,,16666.666666666668
+Commerce,300000.0,Casablanca,Aïn Chock,60,,,,,5000.0
+Commerce,490000.0,Kénitra,Bir Rami,107,,,,,4579.439252336449
+Commerce,450000.0,Casablanca,Sidi Othmane,47,,,,,9574.468085106382
+Commerce,2700000.0,Casablanca,Belvédère,147,,,,,18367.34693877551
+Commerce,1500000.0,Marrakech,Victor Hugo,74,,,,,20270.27027027027
+Commerce,1180000.0,Casablanca,Sidi Othmane,94,,,,,12553.191489361701
+Commerce,950000.0,Bouskoura,Bouskoura centre,98,,,,,9693.877551020409
+Commerce,1700000.0,Casablanca,Ain Sebaa,210,,,,,8095.238095238095
+Commerce,500000.0,Casablanca,Al Fida,15,,,,,33333.333333333336
+Commerce,235000.0,Tanger,Aharrarine,20,,,,,11750.0
+Commerce,2800000.0,Oujda,Centre Ville,1364,,,,,2052.785923753666
+Commerce,510000.0,Agadir,Tassila,89,,,,,5730.337078651685
+Commerce,850000.0,Casablanca,Centre Ville,160,,,,,5312.5
+Commerce,1995000.0,Kénitra,La Ville Haute,70,,,,,28500.0
+Commerce,410000.0,Casablanca,Autre secteur,25,,,,,16400.0
+Commerce,1850000.0,Marrakech,Hay Izdihar,64,,,,,28906.25
+Commerce,2200000.0,Temara,Abbadi,80,,,,,27500.0
+Commerce,440000.0,Casablanca,Autre secteur,32,,,,,13750.0
+Commerce,175000.0,Had Soualem,Toute la ville,18,,,,,9722.222222222223
+Commerce,1980000.0,Casablanca,Oulfa,103,,,,,19223.300970873785
+Commerce,285000.0,Marrakech,Azli,11,,,,,25909.090909090908
+Commerce,830000.0,Benslimane,Autre secteur,48,,,,,17291.666666666668
+Commerce,260000.0,Rabat,Taqaddoum,12,,,,,21666.666666666668
+Commerce,390000.0,Casablanca,Sidi Bernoussi,39,,,,,10000.0
+Commerce,1600000.0,Casablanca,Californie,141,,,,,11347.517730496455
+Terrain_Ferme,1300000.0,Sidi Rahal,Toute la ville,10000,,,,,130.0
+Terrain_Ferme,6000000.0,Sidi Allal El Bahraoui,Toute la ville,44000,,,,,136.36363636363637
+Terrain_Ferme,1200000.0,Salé,Sidi Abdellah,180,,,,,6666.666666666667
+Terrain_Ferme,500000.0,Tétouan,Autre secteur,1500,,,,,333.3333333333333
+Terrain_Ferme,2300000.0,Tifelt,Toute la ville,15000,,,,,153.33333333333334
+Terrain_Ferme,3900000.0,Tahla,Toute la ville,6205,,,,,628.5253827558421
+Terrain_Ferme,1400000.0,Benslimane,Autre secteur,10800,,,,,129.62962962962962
+Terrain_Ferme,2000000.0,Marrakech,Route d'Ourika,500,,,,,4000.0
+Terrain_Ferme,8500000.0,Ain Attig,Toute la ville,2900,,,,,2931.0344827586205
+Terrain_Ferme,3900000.0,Marrakech,Semlalia,240,,,,,16250.0
+Terrain_Ferme,1250000.0,Meknès,Hamria,2366,,,,,528.3178360101437
+Terrain_Ferme,3600000.0,Bouskoura,Bouskoura centre,560,,,,,6428.571428571428
+Terrain_Ferme,180000.0,Boujniba,Toute la ville,93,,,,,1935.483870967742
+Terrain_Ferme,1800000.0,Marrakech,Route d'Ourika,8268,,,,,217.70682148040638
+Terrain_Ferme,360000.0,Benslimane,Autre secteur,80,,,,,4500.0
+Terrain_Ferme,2044000.0,Benslimane,Autre secteur,511,,,,,4000.0
+Terrain_Ferme,1730000.0,Bouskoura,Bouskoura centre,300,,,,,5766.666666666667
+Terrain_Ferme,450000.0,Tétouan,Autre secteur,1200,,,,,375.0
+Terrain_Ferme,387000.0,Ben Guerir,Toute la ville,135,,,,,2866.6666666666665
+Terrain_Ferme,1000000.0,Sidi Rahal,Toute la ville,10000,,,,,100.0
+Terrain_Ferme,5200000.0,Chtouka,Toute la ville,40000,,,,,130.0
+Terrain_Ferme,620000.0,Marrakech,Route de Fès,7600,,,,,81.57894736842105
+Terrain_Ferme,4500000.0,Temara,Autre secteur,26836,,,,,167.68519898643612
+Terrain_Ferme,2735000.0,Bouskoura,Bouskoura centre,500,,,,,5470.0
+Terrain_Ferme,3150000.0,Sidi Rahal,Toute la ville,30000,,,,,105.0
+Terrain_Ferme,1340000.0,Azemmour,Toute la ville,3200,,,,,418.75
+Terrain_Ferme,10500000.0,Rabat,Souissi,2000,,,,,5250.0
+Terrain_Ferme,620000.0,Benslimane,Autre secteur,112,,,,,5535.714285714285
+Terrain_Ferme,1740000.0,Azemmour,Toute la ville,37200,,,,,46.774193548387096
+Appartement,512000.0,Casablanca,Bourgogne,110,2.0,1.0,,,4654.545454545455
+Appartement,1830000.0,Casablanca,Almaz,74,2.0,1.0,,,24729.72972972973
+Appartement,11500000.0,Marrakech,Palmeraie,85,2.0,2.0,,,135294.11764705883
+Appartement,12100000.0,Marrakech,Route de Fès,140,2.0,2.0,,,86428.57142857143
+Appartement,950000.0,Casablanca,Maârif Extension,68,2.0,2.0,,,13970.588235294117
+Appartement,31480000.0,Tanger,Marjane,133,3.0,2.0,,,236691.72932330827
+Appartement,41500000.0,Martil,Toute la ville,150,3.0,1.0,,,276666.6666666667
+Appartement,12600000.0,Marrakech,Guéliz,111,2.0,2.0,,,113513.51351351352
+Appartement,21450000.0,Mohammedia,Quartier du Parc,125,3.0,2.0,,,171600.0
+Appartement,3430000.0,Lamkansa,Toute la ville,60,2.0,2.0,,,57166.666666666664
+Appartement,1140000.0,Casablanca,Californie,75,2.0,2.0,,,15200.0
+Appartement,31500000.0,Marrakech,Semlalia,89,2.0,2.0,,,353932.5842696629
+Appartement,514000.0,Casablanca,Bourgogne,120,3.0,3.0,,,4283.333333333333
+Appartement,21700000.0,Casablanca,2 Mars,110,3.0,2.0,,,197272.72727272726
+Appartement,3520000.0,Ben Guerir,Toute la ville,92,2.0,2.0,,,38260.86956521739
+Appartement,1530000.0,Casablanca,Oulfa,58,2.0,1.0,,,26379.310344827587
+Appartement,11500000.0,Marrakech,Palmeraie,90,2.0,2.0,,,127777.77777777778
+Appartement,1280000.0,Ouislane,Toute la ville,65,2.0,1.0,,,19692.30769230769
+Appartement,1950000.0,Casablanca,Sidi Maarouf,99,3.0,2.0,,,19696.969696969696
+Appartement,44450000.0,Casablanca,Racine,250,3.0,3.0,,,177800.0
+Appartement,31500000.0,Marrakech,Victor Hugo,76,2.0,2.0,,,414473.6842105263
+Appartement,31490000.0,Tétouan,Autre secteur,160,3.0,2.0,,,196812.5
+Appartement,22390000.0,Dar Bouazza,Toute la ville,132,3.0,2.0,,,169621.21212121213
+Appartement,31600000.0,Casablanca,Beauséjour,164,2.0,2.0,,,192682.92682926828
+Appartement,2600000.0,Benslimane,Autre secteur,98,2.0,1.0,,,26530.61224489796
+Appartement,24000000.0,Casablanca,Racine,318,4.0,3.0,,,75471.69811320755
+Appartement,2650000.0,Casablanca,Oulfa,51,1.0,1.0,,,51960.78431372549
+Villa_Riad,4000000.0,Marrakech,Bab Doukkala,115,3.0,4.0,,,34782.608695652176
+Villa_Riad,3700000.0,Marrakech,Route d'Amezmiz,472,,3.0,,,7838.983050847458
+Villa_Riad,5500000.0,Mohammedia,La Colline,300,4.0,5.0,,,18333.333333333332
+Villa_Riad,1150000.0,Marrakech,Route d'Agadir - Essaouira,301,,,,,3820.598006644518
+Villa_Riad,4500000.0,Marrakech,Agdal,374,3.0,3.0,,,12032.085561497326
+Villa_Riad,2700000.0,Marrakech,Targa,369,4.0,0.0,,,7317.073170731707
+Villa_Riad,3699000.0,Marrakech,Route de Tahanaoute,300,3.0,4.0,,,12330.0
+Villa_Riad,3500000.0,Marrakech,Route de Tahanaoute,5500,10.0,9.0,,,636.3636363636364
+Villa_Riad,2250000.0,Casablanca,Oasis,284,3.0,2.0,,,7922.5352112676055
+Commerce,2000000.0,Casablanca,Ben M'sick,163,,,,,12269.938650306747
+Commerce,2150000.0,Temara,Wifak,125,,,,,17200.0
+Commerce,2336000.0,Casablanca,Anfa,87,,,,,26850.574712643676
+Commerce,395000.0,Bouskoura,Bouskoura centre,17,,,,,23235.29411764706
+Commerce,460000.0,Casablanca,Oulfa,17,,,,,27058.823529411766
+Commerce,1000000.0,Casablanca,Centre Ville,260,,,,,3846.153846153846
+Commerce,1340000.0,Casablanca,Mandarona,200,,,,,6700.0
+Commerce,680000.0,Tamesna,Toute la ville,38,,,,,17894.736842105263
+Commerce,790000.0,Casablanca,Quartier des Hôpitaux,23,,,,,34347.82608695652
+Commerce,1342000.0,Agadir,Hay Hassani,61,,,,,22000.0
+Commerce,650000.0,Temara,Fath el Kheir,64,,,,,10156.25
+Commerce,380000.0,Casablanca,Hay Hassani,17,,,,,22352.941176470587
+Commerce,3600000.0,Marrakech,Hay Izdihar,120,,,,,30000.0
+Terrain_Ferme,4500000.0,Benslimane,Autre secteur,900,,,,,5000.0
+Terrain_Ferme,860000.0,Tanger,Autre secteur,503,,,,,1709.741550695825
+Terrain_Ferme,400000.0,Tétouan,Autre secteur,4000,,,,,100.0
+Terrain_Ferme,1700000.0,Bouskoura,Victoria,300,,,,,5666.666666666667
+Terrain_Ferme,4000000.0,Marrakech,Route de Ouarzazate,10000,,,,,400.0
+Terrain_Ferme,700000.0,Salé,Toute la ville,17000,,,,,41.1764705882353
+Terrain_Ferme,2100000.0,Salé,Toute la ville,30000,,,,,70.0
+Terrain_Ferme,460000.0,Tétouan,Autre secteur,1681,,,,,273.64663890541345
+Terrain_Ferme,2100000.0,Temara,Wifak,103,,,,,20388.349514563106
+Terrain_Ferme,1450000.0,Mohammedia,Autre secteur,177,,,,,8192.090395480225
+Terrain_Ferme,2520000.0,Marrakech,Autre secteur,504,,,,,5000.0
+Terrain_Ferme,3100000.0,Mohammedia,Quartier du Parc,650,,,,,4769.2307692307695
+Terrain_Ferme,395000.0,Benslimane,Autre secteur,180,,,,,2194.4444444444443
+Terrain_Ferme,800000.0,Tanger,Mghayer,892,,,,,896.8609865470852
+Terrain_Ferme,7600000.0,Rabat,Hay Riad,440,,,,,17272.727272727272
+Terrain_Ferme,1750000.0,Fès,Route de Sefrou,50000,,,,,35.0
+Terrain_Ferme,850000.0,Marrakech,Route de Fès,20000,,,,,42.5
+Terrain_Ferme,4260000.0,Casablanca,Aïn Diab,258,,,,,16511.627906976744
+Terrain_Ferme,940000.0,Benslimane,Autre secteur,190,,,,,4947.368421052632
+Terrain_Ferme,1560000.0,Casablanca,Almaz,120,,,,,13000.0
+Terrain_Ferme,2334000.0,Marrakech,Targa,389,,,,,6000.0
+Terrain_Ferme,300000.0,Marrakech,Route de Fès,500,,,,,600.0
+Terrain_Ferme,6800000.0,Rabat,Hay Riad,440,,,,,15454.545454545456
+Terrain_Ferme,4600000.0,Rabat,Hay Riad,290,,,,,15862.068965517241
+Terrain_Ferme,990000.0,Benslimane,Autre secteur,283,,,,,3498.2332155477034
+Terrain_Ferme,1500000.0,Bouskoura,Bouskoura centre,250,,,,,6000.0
+Terrain_Ferme,320000.0,Tétouan,Autre secteur,4200,,,,,76.19047619047619
+Terrain_Ferme,750000.0,Tamesna,Toute la ville,2500,,,,,300.0
+Appartement,210000.0,Dar Bouazza,Toute la ville,130,3.0,2.0,,,1615.3846153846155
+Appartement,21260000.0,Tanger,Tanja Balia,90,2.0,2.0,,,236222.22222222222
+Appartement,112000.0,Rabat,Agdal,140,,1.0,,,800.0
+Appartement,11680000.0,Tanger,Tanja Balia,120,3.0,2.0,,,97333.33333333333
+Appartement,1770500.0,Dcheira,Toute la ville,67,2.0,1.0,,,26425.373134328358
+Appartement,11690000.0,Temara,Oued Eddahab,115,3.0,1.0,,,101652.17391304347
+Appartement,411500.0,Casablanca,Les Princesses,115,2.0,2.0,,,3578.2608695652175
+Appartement,2550000.0,Kénitra,Seyad,80,2.0,2.0,,,31875.0
+Appartement,213500.0,El Mansouria,Toute la ville,90,2.0,2.0,,,2372.222222222222
+Appartement,2870000.0,Agadir,Hay Mohammadi,66,2.0,2.0,,,43484.84848484849
+Appartement,1220000.0,Agadir,Hay Mohammadi,107,3.0,2.0,,,11401.869158878504
+Appartement,310500.0,Casablanca,Maârif Extension,98,2.0,1.0,,,3168.3673469387754
+Appartement,21200000.0,Marrakech,Guéliz,52,1.0,1.0,,,407692.3076923077
+Appartement,213500.0,Rabat,Hay Riad,65,1.0,1.0,,,3284.6153846153848
+Appartement,3780000.0,Casablanca,Sidi Maarouf,70,3.0,1.0,,,54000.0
+Appartement,7940000.0,Tanger,Autre secteur,81,2.0,1.0,,,98024.69135802469
+Appartement,28000000.0,Rabat,Hay Riad,270,3.0,4.0,,,103703.70370370371
+Appartement,212000.0,Casablanca,Ferme Bretone,96,2.0,2.0,,,2208.3333333333335
+Appartement,1330000.0,Casablanca,Maarif,55,1.0,1.0,,,24181.818181818184
+Appartement,110000.0,Rabat,Hassan,90,2.0,0.0,,,1222.2222222222222
+Appartement,110000.0,Casablanca,Les Princesses,80,2.0,1.0,,,1375.0
+Appartement,440000.0,Marrakech,Es Saada,60,2.0,1.0,,,7333.333333333333
+Appartement,21300000.0,Bouskoura,Victoria,128,3.0,2.0,,,166406.25
+Appartement,1550000.0,Marrakech,Route de Tahanaoute,61,1.0,1.0,,,25409.83606557377
+Appartement,310000.0,Rabat,Hay Riad,150,4.0,3.0,,,2066.6666666666665
+Appartement,460000.0,Tanger,Autre secteur,63,2.0,1.0,,,7301.587301587301
+Appartement,22120000.0,Casablanca,2 Mars,188,3.0,3.0,,,117659.5744680851
+Appartement,22750000.0,Agadir,Founty,102,2.0,3.0,,,223039.21568627452
+Appartement,3980000.0,Bouskoura,Victoria,99,2.0,2.0,,,40202.020202020205
+Appartement,2390000.0,Kénitra,Bir Rami,75,2.0,2.0,,,31866.666666666668
+Appartement,414000.0,Rabat,Agdal,90,2.0,2.0,,,4600.0
+Appartement,1850000.0,Kénitra,Autre secteur,100,3.0,2.0,,,18500.0
+Appartement,2980000.0,Agadir,Hay Mohammadi,75,2.0,2.0,,,39733.333333333336
+Appartement,1640000.0,Kénitra,alliance,90,2.0,1.0,,,18222.222222222223
+Appartement,1630000.0,Kénitra,alliance,90,2.0,2.0,,,18111.11111111111
+Appartement,212000.0,Casablanca,Beauséjour,140,2.0,2.0,,,1514.2857142857142
+Appartement,212000.0,Casablanca,Palmier,121,3.0,3.0,,,1752.0661157024792
+Appartement,11500000.0,Temara,Wifak,130,3.0,2.0,,,88461.53846153847
+Appartement,315000.0,Tanger,Malabata,100,2.0,2.0,,,3150.0
+Maison,1200000.0,Marrakech,Azli,150,20.0,3.0,,,8000.0
+Villa_Riad,2800000.0,Mohammedia,La Colline,160,4.0,4.0,,,17500.0
+Villa_Riad,4600000.0,Marrakech,Autre secteur,601,5.0,6.0,,,7653.910149750416
+Villa_Riad,3200000.0,Kénitra,quartier golf,250,4.0,3.0,,,12800.0
+Villa_Riad,12500000.0,Casablanca,Maârif Extension,746,3.0,2.0,,,16756.03217158177
+Villa_Riad,3130000.0,Mohammedia,Quartier Du Soleil,310,4.0,4.0,,,10096.774193548386
+Villa_Riad,3100000.0,Kénitra,El Haouzia,256,4.0,4.0,,,12109.375
+Villa_Riad,11000000.0,Temara,Harhoura,3300,5.0,3.0,,,3333.3333333333335
+Villa_Riad,2940000.0,Kénitra,alliance,180,3.0,4.0,,,16333.333333333332
+Villa_Riad,8700000.0,Temara,Harhoura,418,5.0,4.0,,,20813.397129186604
+Villa_Riad,4300000.0,Casablanca,Autre secteur,220,4.0,3.0,,,19545.454545454544
+Villa_Riad,4700000.0,Tanger,Bir Chairi,240,6.0,3.0,,,19583.333333333332
+Villa_Riad,6500000.0,Tanger,nouinouich,297,4.0,3.0,,,21885.521885521885
+Villa_Riad,6500000.0,Marrakech,Route de Fès,1200,5.0,1.0,,,5416.666666666667
+Villa_Riad,5100000.0,Bouskoura,Bouskoura centre,480,4.0,4.0,,,10625.0
+Villa_Riad,7900000.0,Casablanca,Aïn Diab,457,4.0,5.0,,,17286.652078774616
+Villa_Riad,2200000.0,Rabat,Autre secteur,300,4.0,2.0,,,7333.333333333333
+Villa_Riad,5350000.0,Casablanca,Hay Hassani,294,5.0,4.0,,,18197.278911564626
+Villa_Riad,5000000.0,Casablanca,Florida,306,4.0,3.0,,,16339.869281045752
+Villa_Riad,5500000.0,Bouskoura,Bouskoura centre,510,5.0,3.0,,,10784.313725490196
+Villa_Riad,7000000.0,Kénitra,alliance,500,5.0,5.0,,,14000.0
+Villa_Riad,8500000.0,Bouskoura,Bouskoura centre,640,3.0,3.0,,,13281.25
+Villa_Riad,7300000.0,Tanger,Jbel Kbir,1080,3.0,3.0,,,6759.259259259259
+Villa_Riad,5500000.0,Sidi Bouknadel,Toute la ville,600,4.0,3.0,,,9166.666666666666
+Villa_Riad,1430000.0,Meknès,Autre secteur,326,1.0,,,,4386.503067484663
+Villa_Riad,3100000.0,Mohammedia,Quartier Du Soleil,309,4.0,2.0,,,10032.362459546926
+Maison,3900000.0,Tanger,Moujahidine,110,9.0,6.0,3.0,,35454.545454545456
+Maison,1800000.0,Casablanca,Autre secteur,384,3.0,1.0,,,4687.5
+Maison,1540000.0,Kénitra,alliance,200,5.0,3.0,,,7700.0
+Maison,1450000.0,Ksar el-Kebir,Toute la ville,133,4.0,2.0,,,10902.255639097744
+Maison,2300000.0,Kénitra,alliance,226,6.0,4.0,,,10176.991150442478
+Maison,380000.0,Tanger,Tanja Balia,93,1.0,1.0,,,4086.021505376344
+Maison,1750000.0,Kénitra,alliance,200,4.0,3.0,,,8750.0
+Maison,1600000.0,Kénitra,alliance,200,5.0,3.0,,,8000.0
+Maison,2200000.0,Tanger,Tanja Balia,70,4.0,2.0,,,31428.571428571428
+Maison,1500000.0,Marrakech,Route d'Ourika,90,4.0,1.0,,,16666.666666666668
+Maison,1500000.0,Marrakech,Daoudiate,130,3.0,2.0,,,11538.461538461537
+Maison,2200000.0,Rabat,Autre secteur,260,3.0,3.0,,,8461.538461538461
+Maison,1350000.0,Kénitra,alliance,160,4.0,3.0,,,8437.5
+Bureau_Plateau,1550000.0,Tanger,Malabata,60,,,,,25833.333333333332
+Bureau_Plateau,11058500.0,Agadir,Centre Ville,73,,1.0,,,151486.301369863
+Bureau_Plateau,51550000.0,Casablanca,Abdelmoumen,135,,1.0,,,381851.85185185185
+Bureau_Plateau,11300000.0,Casablanca,Mers Sultan,100,,1.0,,,113000.0
+Commerce,3000000.0,Agadir,Hay Salam,93,,,,,32258.06451612903
+Commerce,350000.0,Marrakech,Sidi Youssef Ben Ali,14,,,,,25000.0
+Commerce,1040000.0,Salé,Sala El Jadida,36,,,,,28888.88888888889
+Commerce,345000.0,Salé,Sala El Jadida,13,,,,,26538.46153846154
+Commerce,1620000.0,Salé,Sala El Jadida,46,,,,,35217.391304347824
+Commerce,2500000.0,Tanger,Castilla,121,,,,,20661.15702479339
+Commerce,1850000.0,Casablanca,2 Mars,82,,,,,22560.975609756097
+Commerce,450000.0,Sidi Allal El Bahraoui,Toute la ville,26,,,,,17307.69230769231
+Commerce,1280000.0,Marrakech,Mabrouka,59,,,,,21694.915254237287
+Commerce,500000.0,Bouskoura,Bouskoura centre,70,,,,,7142.857142857143
+Commerce,1815000.0,Casablanca,Belvédère,121,,,,,15000.0
+Commerce,640000.0,Marrakech,Hay Izdihar,32,,,,,20000.0
+Commerce,900000.0,Marrakech,Autre secteur,87,,,,,10344.827586206897
+Commerce,767000.0,Marrakech,M'Hamid,34,,,,,22558.823529411766
+Commerce,2400000.0,Marrakech,Hay Izdihar,80,,,,,30000.0
+Commerce,2200000.0,Agadir,Centre Ville,190,,,,,11578.947368421053
+Commerce,800000.0,Casablanca,Hay Mohammadi,16,,,,,50000.0
+Terrain_Ferme,4420000.0,Mohammedia,La Colline,680,,,,,6500.0
+Terrain_Ferme,530000.0,Er-Rich,Toute la ville,220,,,,,2409.090909090909
+Terrain_Ferme,560000.0,Marrakech,Autre secteur,102,,,,,5490.196078431372
+Terrain_Ferme,2130000.0,Mohammedia,La Siesta,225,,,,,9466.666666666666
+Terrain_Ferme,1600000.0,El Jadida,Autre secteur,8913,,,,,179.51307079546729
+Terrain_Ferme,2400000.0,El Jadida,Autre secteur,50000,,,,,48.0
+Terrain_Ferme,500000.0,Fnideq,Toute la ville,150,,,,,3333.3333333333335
+Terrain_Ferme,850000.0,Sidi Rahal,Toute la ville,10000,,,,,85.0
+Terrain_Ferme,1110000.0,Oujda,Autre secteur,10000,,,,,111.0
+Terrain_Ferme,1300000.0,Sidi Rahal,Toute la ville,16000,,,,,81.25
+Terrain_Ferme,2160000.0,Temara,Ain Atig,480,,,,,4500.0
+Terrain_Ferme,900000.0,Tamesna,Toute la ville,214,,,,,4205.607476635514
+Terrain_Ferme,2700000.0,Marrakech,Sidi Abdellah Ghiat,11134,,,,,242.5004490749057
+Terrain_Ferme,3100000.0,Temara,Autre secteur,397,,,,,7808.564231738035
+Terrain_Ferme,860000.0,Marrakech,M'Hamid,120,,,,,7166.666666666667
+Terrain_Ferme,450000.0,Sidi Rahal,Toute la ville,3000,,,,,150.0
+Terrain_Ferme,510000.0,Ben Guerir,Toute la ville,133,,,,,3834.5864661654136
+Terrain_Ferme,1650000.0,Azemmour,Toute la ville,3200,,,,,515.625
+Terrain_Ferme,2500000.0,Bouskoura,Bouskoura centre,597,,,,,4187.604690117253
+Terrain_Ferme,549000.0,Marrakech,Route de Casablanca,225,,,,,2440.0
+Terrain_Ferme,1200000.0,Marrakech,Route de Fès,600,,,,,2000.0
+Terrain_Ferme,1800000.0,Benslimane,Autre secteur,24300,,,,,74.07407407407408
+Terrain_Ferme,636000.0,Tanger,Tanja Balia,106,,,,,6000.0
+Terrain_Ferme,690000.0,Tanger,Tanja Balia,108,,,,,6388.888888888889
+Appartement,2685000.0,Kénitra,alliance,80,2.0,2.0,,,33562.5
+Appartement,12650000.0,Temara,Wifak,213,3.0,1.0,,,59389.67136150235
+Appartement,31800000.0,Marrakech,Palmeraie,95,2.0,2.0,,,334736.84210526315
+Appartement,115500.0,Casablanca,Gauthier,236,3.0,3.0,,,489.40677966101697
+Appartement,21300000.0,Tanger,Casabarata,98,2.0,1.0,,,217346.9387755102
+Appartement,125000.0,Marrakech,Hivernage,70,1.0,1.0,,,1785.7142857142858
+Appartement,51600000.0,Casablanca,Les Princesses,72,2.0,2.0,,,716666.6666666666
+Appartement,51550000.0,Casablanca,Abdelmoumen,77,2.0,2.0,,,669480.5194805195
+Appartement,31580000.0,Tanger,Centre ville,103,2.0,2.0,,,306601.9417475728
+Appartement,2286000.0,Casablanca,Oulfa,58,2.0,1.0,,,39413.793103448275
+Appartement,1750000.0,Casablanca,Palmier,95,2.0,2.0,,,18421.052631578947
+Appartement,21950000.0,Casablanca,Quartier des Hôpitaux,136,3.0,0.0,,,161397.0588235294
+Appartement,2100000.0,Fès,Narjis,122,,,,,17213.114754098362
+Appartement,613000.0,Casablanca,Casablanca Finance City,100,2.0,2.0,,,6130.0
+Appartement,22440000.0,Casablanca,Racine,132,3.0,3.0,,,170000.0
+Appartement,511500.0,Rabat,Hay Riad,208,3.0,2.0,,,2459.1346153846152
+Appartement,4700000.0,Casablanca,Oulfa,73,2.0,2.0,,,64383.561643835616
+Appartement,3800000.0,Casablanca,Maarif,199,3.0,3.0,,,19095.47738693467
+Appartement,3420000.0,Marrakech,Hay Charaf,60,1.0,1.0,,,57000.0
+Appartement,41450000.0,Casablanca,Val Fleuri,126,2.0,2.0,,,328968.25396825396
+Appartement,11077000.0,Marrakech,Guéliz,48,1.0,1.0,,,230770.83333333334
+Appartement,31200000.0,Marrakech,Semlalia,100,3.0,2.0,,,312000.0
+Appartement,114000.0,El Menzeh,Toute la ville,180,3.0,3.0,,,633.3333333333334
+Appartement,3440000.0,Casablanca,Sidi Othmane,81,2.0,1.0,,,42469.135802469136
+Appartement,520000.0,Casablanca,Palmier,148,3.0,3.0,,,3513.5135135135133
+Appartement,2690000.0,Casablanca,Autre secteur,67,2.0,1.0,,,40149.253731343284
+Appartement,5940000.0,Casablanca,Les Princesses,44,1.0,1.0,,,135000.0
+Appartement,41100000.0,Casablanca,Maarif,90,2.0,1.0,,,456666.6666666667
+Appartement,11530000.0,Marrakech,Guéliz,61,1.0,1.0,,,189016.39344262294
+Appartement,31000000.0,Casablanca,Gauthier,51,1.0,1.0,,,607843.1372549019
+Appartement,51050000.0,Marrakech,Hay Izdihar,75,2.0,2.0,,,680666.6666666666
+Appartement,21100000.0,Casablanca,Californie,52,1.0,1.0,,,405769.23076923075
+Appartement,51900000.0,Marrakech,Ain Mezouar,100,3.0,2.0,,,519000.0
+Appartement,31900000.0,Temara,Harhoura,95,2.0,2.0,,,335789.4736842105
+Appartement,530000.0,Casablanca,Racine,364,4.0,5.0,,,1456.043956043956
+Appartement,1250000.0,Meknès,Hay Salam,60,2.0,1.0,,,20833.333333333332
+Appartement,313000.0,Casablanca,Casablanca Finance City,86,2.0,1.0,,,3639.5348837209303
+Appartement,3850000.0,Marrakech,Allal El Fassi,62,2.0,1.0,,,62096.77419354839
+Appartement,11650000.0,Casablanca,Almaz,129,3.0,3.0,,,90310.07751937985
+Appartement,5860000.0,Agadir,Tassila,94,3.0,0.0,,,62340.425531914894
+Appartement,12400000.0,Casablanca,2 Mars,159,3.0,3.0,,,77987.4213836478
+Appartement,1380000.0,Benslimane,Autre secteur,126,3.0,1.0,,,10952.380952380952
+Appartement,3830000.0,Casablanca,Almaz,71,2.0,1.0,,,53943.66197183099
+Appartement,219000.0,Rabat,Agdal,240,3.0,3.0,,,912.5
+Appartement,52400000.0,Marrakech,Hivernage,100,2.0,2.0,,,524000.0
+Appartement,1575000.0,Kénitra,Bir Rami,90,3.0,1.0,,,17500.0
+Appartement,21500000.0,Marrakech,Guéliz,98,2.0,2.0,,,219387.75510204083
+Appartement,4850000.0,Casablanca,Belvédère,149,3.0,2.0,,,32550.3355704698
+Appartement,51450000.0,Casablanca,Bourgogne,103,2.0,2.0,,,499514.5631067961
+Appartement,2690000.0,Oujda,Autre secteur,66,3.0,1.0,,,40757.57575757576
+Appartement,310000.0,Casablanca,Palmier,143,3.0,3.0,,,2167.8321678321677
+Appartement,314000.0,Casablanca,Quartier des Hôpitaux,125,3.0,2.0,,,2512.0
+Appartement,4300000.0,Martil,Toute la ville,45,2.0,1.0,,,95555.55555555556
+Appartement,312000.0,Casablanca,Maarif,151,3.0,3.0,,,2066.225165562914
+Appartement,41140000.0,Marrakech,Guéliz,60,1.0,1.0,,,685666.6666666666
+Appartement,41700000.0,Casablanca,2 Mars,133,3.0,2.0,,,313533.83458646614
+Appartement,51260000.0,Casablanca,Oulfa,65,1.0,1.0,,,788615.3846153846
+Villa_Riad,3950000.0,Bouskoura,Ville verte,269,3.0,3.0,,,14684.014869888477
+Villa_Riad,5800000.0,Marrakech,Assif,648,5.0,3.0,,,8950.617283950618
+Villa_Riad,9800000.0,Temara,Autre secteur,3360,6.0,3.0,,,2916.6666666666665
+Villa_Riad,2100000.0,Benslimane,Autre secteur,121,4.0,2.0,,,17355.371900826445
+Villa_Riad,15000000.0,Rabat,Souissi,1998,5.0,3.0,,,7507.507507507507
+Villa_Riad,6500000.0,Marrakech,Av Mohammed VI,500,4.0,5.0,,,13000.0
+Maison,110000.0,El Ksiba,Toute la ville,45,1.0,,,,2444.4444444444443
+Maison,3500000.0,Casablanca,Aïn Chock,127,5.0,5.0,,,27559.055118110235
+Maison,4900000.0,Rabat,Autre secteur,400,4.0,4.0,,,12250.0
+Maison,260000.0,Oulad Abbou,Toute la ville,350,1.0,1.0,,,742.8571428571429
+Maison,4100000.0,Casablanca,Sidi Maarouf,100,5.0,6.0,,,41000.0
+Maison,1300000.0,Meknès,Wislane,90,5.0,4.0,,,14444.444444444443
+Maison,550000.0,Tétouan,Autre secteur,400,2.0,1.0,2.0,,1375.0
+Maison,1230000.0,Cap de l'eau,Toute la ville,226,3.0,1.0,,,5442.477876106194
+Maison,1400000.0,Berrechid,Toute la ville,109,2.0,1.0,,,12844.036697247706
+Maison,512000.0,Casablanca,Centre Ville,150,,1.0,,,3413.3333333333335
+Bureau_Plateau,11850000.0,Tanger,Centre ville,85,,1.0,,,139411.76470588235
+Bureau_Plateau,11850000.0,Tanger,Centre ville,85,,1.0,,,139411.76470588235
+Commerce,840000.0,Marrakech,M'Hamid,56,,,,,15000.0
+Commerce,1280000.0,Rabat,Autre secteur,211,,,,,6066.350710900474
+Commerce,260000.0,Fès,Route Ain Chkaf,45,,,,,5777.777777777777
+Commerce,1300000.0,Inzegan,Toute la ville,15,,,,,86666.66666666667
+Terrain_Ferme,1700000.0,Benslimane,Autre secteur,19260,,,,,88.26583592938734
+Terrain_Ferme,650000.0,Moulay Bousselham,Toute la ville,201,,,,,3233.830845771144
+Terrain_Ferme,2700000.0,Bouskoura,Victoria,500,,,,,5400.0
+Terrain_Ferme,3470000.0,Bouskoura,Victoria,700,,,,,4957.142857142857
+Terrain_Ferme,1080000.0,Tanger,Tanja Balia,120,,,3.0,,9000.0
+Terrain_Ferme,850000.0,Marrakech,Autre secteur,12482,,,,,68.09806120813973
+Terrain_Ferme,2800000.0,Benslimane,Autre secteur,35500,,,,,78.87323943661971
+Terrain_Ferme,407000.0,Tanger,Tanja Balia,74,,,,,5500.0
+Terrain_Ferme,6500000.0,Fès,Saies,48000,,,,,135.41666666666666
+Terrain_Ferme,1500000.0,Fès,Narjis,73000,,,,,20.54794520547945
+Terrain_Ferme,1600000.0,Fès,Saies,25000,,,,,64.0
+Terrain_Ferme,1800000.0,Fès,Saies,6600,,,,,272.72727272727275
+Terrain_Ferme,600000.0,Marrakech,Route de Casablanca,4500,,,,,133.33333333333334
+Terrain_Ferme,650000.0,Marrakech,Massar,5170,,,,,125.72533849129594
+Terrain_Ferme,390000.0,Marrakech,Route d'Ourika,170,,,,,2294.1176470588234
+Terrain_Ferme,1650000.0,Fès,Autre secteur,25000,,,,,66.0
+Terrain_Ferme,700000.0,Saidia,Toute la ville,351,,,,,1994.3019943019942
+Terrain_Ferme,6600000.0,Marrakech,Route de Fès,110000,,,,,60.0
+Terrain_Ferme,120000.0,Fès,Autre secteur,1000,,,,,120.0
+Terrain_Ferme,1100000.0,Salé,Toute la ville,12000,,,,,91.66666666666667
+Terrain_Ferme,2900000.0,Mohammedia,Autre secteur,600,,,,,4833.333333333333
+Appartement,32350000.0,Marrakech,Guéliz,110,2.0,2.0,,,294090.9090909091
+Appartement,41930000.0,Casablanca,2 Mars,129,3.0,2.0,,,325038.7596899225
+Appartement,11656000.0,Mohammedia,Centre Ville,110,2.0,2.0,,,105963.63636363637
+Appartement,21250000.0,Essaouira,Toute la ville,100,2.0,1.0,,,212500.0
+Appartement,5850000.0,Casablanca,Aïn Borja,81,2.0,2.0,,,72222.22222222222
+Appartement,1570000.0,Casablanca,Errahma,75,3.0,2.0,,,20933.333333333332
+Appartement,21800000.0,Asilah,Toute la ville,113,3.0,2.0,,,192920.35398230088
+Appartement,21750000.0,Casablanca,Mers Sultan,139,2.0,2.0,,,156474.8201438849
+Appartement,3580000.0,Marrakech,Autre secteur,74,3.0,1.0,,,48378.37837837838
+Appartement,51280000.0,Casablanca,Maarif,68,2.0,1.0,,,754117.6470588235
+Appartement,1660000.0,Casablanca,Al Fida,66,2.0,1.0,,,25151.515151515152
+Appartement,32600000.0,Casablanca,Ferme Bretone,151,3.0,3.0,,,215894.03973509933
+Appartement,221000.0,Bouskoura,Ville verte,170,3.0,2.0,,,1300.0
+Appartement,1640000.0,Kénitra,alliance,71,2.0,2.0,,,23098.591549295776
+Appartement,11100000.0,Meknès,Hamria,200,3.0,2.0,,,55500.0
+Appartement,21350000.0,Marrakech,Av Mohammed VI,77,1.0,1.0,,,277272.7272727273
+Appartement,11500000.0,Marrakech,Victor Hugo,136,3.0,2.0,,,84558.82352941176
+Appartement,21064000.0,Marrakech,Guéliz,56,1.0,1.0,,,376142.85714285716
+Appartement,11209700.0,Marrakech,Guéliz,60,2.0,2.0,,,186828.33333333334
+Appartement,21030000.0,Mohammedia,Autre secteur,91,2.0,2.0,,,231098.9010989011
+Appartement,810000.0,Tanger,Centre ville,120,3.0,2.0,,,6750.0
+Appartement,3874000.0,Marrakech,Guéliz,46,1.0,1.0,,,84217.39130434782
+Appartement,11476000.0,Marrakech,Guéliz,82,1.0,2.0,,,139951.21951219512
+Appartement,41500000.0,Marrakech,Guéliz,86,1.0,1.0,,,482558.1395348837
+Appartement,114500.0,Marrakech,Autre secteur,84,2.0,2.0,,,1363.095238095238
+Appartement,4980000.0,Tétouan,Autre secteur,148,4.0,2.0,,,33648.64864864865
+Appartement,31606500.0,Casablanca,2 Mars,119,3.0,1.0,,,265600.8403361345
+Appartement,810000.0,Casablanca,Californie,45,1.0,1.0,,,18000.0
+Appartement,218000.0,Rabat,Hay Riad,120,,,,,1816.6666666666667
+Appartement,312000.0,Casablanca,Bourgogne,105,3.0,3.0,,,2971.4285714285716
+Maison,2000000.0,Marrakech,M'Hamid,90,4.0,3.0,,,22222.222222222223
+Appartement,21300000.0,Marrakech,Victor Hugo,75,2.0,2.0,,,284000.0
+Appartement,31500000.0,Marrakech,Palmeraie,95,2.0,2.0,,,331578.94736842107
+Villa_Riad,2100000.0,Oujda,Riad isli,185,3.0,2.0,,,11351.351351351352
+Villa_Riad,900000.0,El Jadida,Autre secteur,100,7.0,5.0,,,9000.0
+Villa_Riad,4750000.0,Bouznika,Autre secteur,300,3.0,2.0,,,15833.333333333332
+Villa_Riad,1150000.0,Marrakech,Route d'Ourika,4501150,3.0,3.0,,,0.2554902635993024
+Villa_Riad,6500000.0,Rabat,Autre secteur,4000,4.0,3.0,,,1625.0
+Villa_Riad,4400000.0,Marrakech,Route de Tahanaoute,300,5.0,4.0,,,14666.666666666668
+Villa_Riad,4800000.0,Marrakech,Route d'Amezmiz,300,3.0,4.0,,,16000.0
+Villa_Riad,3700000.0,Marrakech,Route de Tahanaoute,250,3.0,4.0,,,14800.0
+Villa_Riad,3600000.0,Marrakech,Route de Casablanca,330,4.0,3.0,,,10909.090909090908
+Villa_Riad,6300000.0,Marrakech,Route de Tahanaoute,376,4.0,5.0,,,16755.31914893617
+Villa_Riad,1500000.0,Marrakech,Route de Fès,2300,4.0,4.0,,,652.1739130434783
+Villa_Riad,8600000.0,Marrakech,Agdal,560,4.0,4.0,,,15357.142857142857
+Villa_Riad,5000000.0,Bouskoura,Ville verte,633,4.0,3.0,,,7898.894154818326
+Maison,3900000.0,Bouznika,Autre secteur,150,9.0,4.0,,,26000.0
+Maison,2000000.0,Marrakech,M'Hamid,80,4.0,3.0,,,25000.0
+Maison,860000.0,Marrakech,M'Hamid,120,4.0,2.0,,,7166.666666666667
+Maison,560000.0,Oujda,Bd Derfoufi,153,4.0,2.0,,,3660.1307189542486
+Maison,190000.0,Fès,Jnan El ward,100,2.0,2.0,,,1900.0
+Maison,3000000.0,Casablanca,Aïn Chock,100,6.0,3.0,2.0,,30000.0
+Maison,4500000.0,Mohammedia,Quartier Du Soleil,255,4.0,3.0,,,17647.058823529413
+Maison,4900000.0,Tanger,Aouama Gharbia,592,2.0,2.0,4.0,,8277.027027027027
+Maison,2600000.0,Fès,Agdal,329,4.0,3.0,,,7902.73556231003
+Maison,1340000.0,El Jadida,Autre secteur,270,4.0,2.0,,,4962.962962962963
+Maison,1200000.0,Oujda,Autre secteur,155,4.0,5.0,,,7741.935483870968
+Maison,5000000.0,Marrakech,Ancienne Médina,160,7.0,,,,31250.0
+Maison,250000.0,Casablanca,Oulfa,64,3.0,1.0,,,3906.25
+Maison,3500000.0,Casablanca,Sidi Bernoussi,99,6.0,3.0,,,35353.53535353536
+Bureau_Plateau,42160000.0,Casablanca,Maarif,144,,1.0,,,292777.77777777775
+Bureau_Plateau,11400000.0,Casablanca,Californie,68,,0.0,,,167647.0588235294
+Bureau_Plateau,7470000.0,Kénitra,Centre,44,,0.0,,,169772.72727272726
+Bureau_Plateau,1679999.0,Kénitra,La Ville Haute,78,,1.0,,,21538.44871794872
+Bureau_Plateau,6490000.0,Kénitra,Maamora,47,,1.0,,,138085.10638297873
+Bureau_Plateau,1025000.0,Casablanca,Roches Noires,88,,1.0,,,11647.727272727274
+Commerce,600000.0,Marrakech,Route d'Amezmiz,100,,,,,6000.0
+Commerce,550000.0,Casablanca,Errahma,27,,,,,20370.37037037037
+Commerce,3500000.0,Temara,Firdaouss,365,,,,,9589.04109589041
+Commerce,2100000.0,Dar Bouazza,Toute la ville,156,,,,,13461.538461538463
+Commerce,1180000.0,Temara,Autre secteur,170,,,,,6941.176470588235
+Commerce,3000000.0,Marrakech,Hay Charaf,153,,,,,19607.843137254902
+Commerce,820000.0,Casablanca,Ain Sebaa,56,,,,,14642.857142857143
+Commerce,1200000.0,Casablanca,Ain Sebaa,155,,,,,7741.935483870968
+Commerce,1600000.0,Casablanca,Californie,153,,,,,10457.51633986928
+Commerce,1850000.0,Casablanca,Almaz,95,,,,,19473.684210526317
+Commerce,1650000.0,Casablanca,Ain Sebaa,94,,,,,17553.191489361703
+Commerce,5000000.0,Casablanca,La Gironde,300,,,,,16666.666666666668
+Commerce,2300000.0,Casablanca,Hay Hassani,100,,,,,23000.0
+Commerce,2500000.0,Marrakech,Hay Izdihar,117,,,,,21367.521367521367
+Commerce,1400000.0,Meknès,Autre secteur,240,,,,,5833.333333333333
+Commerce,2000000.0,Settat,Toute la ville,100,,,,,20000.0
+Commerce,5000000.0,Rabat,Aakkari,235,,,,,21276.59574468085
+Terrain_Ferme,500000.0,Bir Jdid,Toute la ville,800,,,2.0,,625.0
+Terrain_Ferme,5000000.0,Marrakech,Targa,1197,,,,,4177.109440267335
+Terrain_Ferme,160000.0,Tétouan,Autre secteur,605,,,,,264.46280991735534
+Terrain_Ferme,11632500.0,Rabat,Souissi,2115,,,,,5500.0
+Terrain_Ferme,2500000.0,Marrakech,Targa,400,,,,,6250.0
+Terrain_Ferme,1180000.0,Fès,Route d'Immouzere,46250,,,,,25.513513513513512
+Terrain_Ferme,12996000.0,Casablanca,Oasis,722,,,,,18000.0
+Terrain_Ferme,4500000.0,Bouznika,Autre secteur,10000,,,,,450.0
+Terrain_Ferme,200000.0,Tétouan,Autre secteur,550,,,,,363.6363636363636
+Terrain_Ferme,13823000.0,Rabat,Souissi,2300,,,,,6010.0
+Terrain_Ferme,1586000.0,Casablanca,Autre secteur,244,,,,,6500.0
+Terrain_Ferme,4050000.0,Temara,Harhoura,324,,,,,12500.0
+Terrain_Ferme,430000.0,Tétouan,Autre secteur,1800,,,,,238.88888888888889
+Terrain_Ferme,13877500.0,Rabat,Souissi,2135,,,,,6500.0
+Terrain_Ferme,1009000.0,Marrakech,M'Hamid,2018,,,,,500.0
+Terrain_Ferme,12600000.0,Casablanca,Oasis,700,,,,,18000.0
+Terrain_Ferme,9000000.0,Casablanca,Aïn Diab,682,,,,,13196.480938416422
+Terrain_Ferme,14000000.0,Casablanca,Franceville,778,,,,,17994.85861182519
+Appartement,915000.0,Kénitra,alliance,96,3.0,2.0,,,9531.25
+Appartement,32016000.0,Tanger,Tanja Balia,144,3.0,2.0,,,222333.33333333334
+Appartement,11050800.0,Tanger,Tanja Balia,71,2.0,1.0,,,155645.0704225352
+Appartement,120000.0,Rabat,Souissi,160,3.0,2.0,,,750.0
+Appartement,11300000.0,Dar Bouazza,Toute la ville,96,2.0,2.0,,,117708.33333333333
+Appartement,41900000.0,Casablanca,Palmier,95,3.0,2.0,,,441052.63157894736
+Appartement,112500.0,Casablanca,Casablanca Finance City,87,2.0,2.0,,,1293.103448275862
+Appartement,31500000.0,Marrakech,Route de Casablanca,73,2.0,1.0,,,431506.8493150685
+Appartement,31600000.0,Agadir,Hay Mohammadi,115,3.0,2.0,,,274782.60869565216
+Appartement,51382500.0,Marrakech,Guéliz,79,2.0,2.0,,,650411.3924050633
+Villa_Riad,6000000.0,Casablanca,Californie,484,5.0,3.0,,,12396.694214876034
+Villa_Riad,28000000.0,Rabat,Hay Riad,2267,5.0,5.0,,,12351.12483458315
+Villa_Riad,17000000.0,Marrakech,Route de Tahanaoute,2800,5.0,7.0,,,6071.428571428572
+Villa_Riad,16000000.0,Rabat,Souissi,1700,5.0,5.0,,,9411.764705882353
+Villa_Riad,11000000.0,El Menzeh,Toute la ville,800,4.0,3.0,,,13750.0
+Villa_Riad,850000.0,Marrakech,Route de Fès,560,4.0,2.0,,,1517.857142857143
+Villa_Riad,4200000.0,Marrakech,Hay Targa,436,5.0,5.0,,,9633.02752293578
+Villa_Riad,22000000.0,Bouskoura,Ville verte,1311,5.0,5.0,,,16781.083142639207
+Villa_Riad,3200000.0,Casablanca,Oulfa,359,3.0,3.0,,,8913.649025069637
+Villa_Riad,14000000.0,Rabat,Souissi,2000,5.0,4.0,,,7000.0
+Villa_Riad,15000000.0,Rabat,Souissi,2250,5.0,5.0,,,6666.666666666667
+Maison,300000.0,Casablanca,Aïn Chock,32,,1.0,,,9375.0
+Maison,750000.0,Nador,Autre secteur,148,3.0,2.0,,,5067.5675675675675
+Maison,2000000.0,Marrakech,M'Hamid,80,4.0,3.0,,,25000.0
+Bureau_Plateau,21950000.0,Rabat,Agdal,112,,1.0,,,195982.14285714287
+Bureau_Plateau,845000.0,Casablanca,Sidi Maarouf,65,,,,,13000.0
+Commerce,1350000.0,Agadir,Hay Mohammadi,91,,,,,14835.164835164835
+Commerce,2580000.0,Casablanca,Bourgogne,154,,,,,16753.246753246753
+Terrain_Ferme,2600000.0,Marrakech,Route de Fès,4835,,,,,537.7456049638056
+Terrain_Ferme,4950000.0,Asilah,Toute la ville,40000,,,,,123.75
+Appartement,41250000.0,Berkane,Toute la ville,147,4.0,2.0,,,280612.2448979592
+Villa_Riad,7500000.0,El Menzeh,Toute la ville,900,4.0,5.0,,,8333.333333333334
+Villa_Riad,1200000.0,Marrakech,Route d'Ourika,1000,4.0,4.0,,,1200.0
+Villa_Riad,4600000.0,Marrakech,Route d'Amezmiz,283,4.0,4.0,,,16254.416961130742
+Villa_Riad,1450000.0,Marrakech,Route d'Ourika,1200,4.0,5.0,,,1208.3333333333333
+Villa_Riad,1050000.0,Ait Ourir,Toute la ville,151,5.0,2.0,,,6953.64238410596
+Villa_Riad,3000000.0,Mohammedia,Autre secteur,245,3.0,3.0,,,12244.897959183672
+Villa_Riad,2700000.0,El Jadida,Corniche,520,6.0,5.0,,,5192.307692307692
+Villa_Riad,6750000.0,Sidi Allal El Bahraoui,Toute la ville,10000,3.0,5.0,,,675.0
+Maison,106000.0,Kénitra,Al Maghrib Al Arabi,125,7.0,2.0,,,848.0
+Maison,1500000.0,Salé,Medina,76,3.0,1.0,,,19736.842105263157
+Maison,1900000.0,Oujda,Riad isli,180,3.0,3.0,,,10555.555555555557
+Maison,4000000.0,Tanger,Aouama Gharbia,1113,6.0,6.0,,,3593.8903863432165
+Maison,112000.0,Kénitra,alliance,72,2.0,2.0,,,1555.5555555555557
+Maison,1400000.0,Larache,Toute la ville,110,3.0,2.0,4.0,,12727.272727272726
+Maison,1400000.0,Marrakech,Route d'Ourika,136,6.0,3.0,,,10294.117647058823
+Maison,360000.0,Salé,Autre secteur,300,2.0,1.0,,,1200.0
+Maison,500000.0,Meknès,El Bassatine,100,3.0,2.0,,,5000.0
+Maison,2680000.0,Tiznit,Toute la ville,300,9.0,7.0,,,8933.333333333334
+Maison,500000.0,Marrakech,Ancienne Médina,36,2.0,1.0,,,13888.888888888889
+Bureau_Plateau,3750000.0,Mohammedia,Quartier du Parc,54,,1.0,,,69444.44444444444
+Bureau_Plateau,6675000.0,Kénitra,Centre,79,,1.0,,,84493.67088607595
+Bureau_Plateau,51500000.0,Casablanca,Quartier des Hôpitaux,117,,1.0,,,440170.9401709402
+Bureau_Plateau,3550000.0,Casablanca,Lissasfa,28,,1.0,,,126785.71428571429
+Bureau_Plateau,3650000.0,Casablanca,Lissasfa,37,,0.0,,,98648.64864864865
+Bureau_Plateau,11210000.0,Casablanca,Val Fleuri,87,,1.0,,,128850.57471264368
+Bureau_Plateau,2550000.0,Casablanca,Lissasfa,40,,1.0,,,63750.0
+Bureau_Plateau,1740000.0,Mohammedia,Quartier du Parc,50,,1.0,,,34800.0
+Bureau_Plateau,11930000.0,Casablanca,2 Mars,114,,1.0,,,104649.12280701754
+Bureau_Plateau,1930000.0,Kénitra,Maamora,109,,1.0,,,17706.422018348625
+Commerce,2200000.0,Temara,Abbadi,80,,,,,27500.0
+Commerce,3200000.0,Casablanca,Les Princesses,230,,,,,13913.04347826087
+Commerce,5373000.0,Casablanca,2 Mars,411,,,,,13072.992700729927
+Commerce,750000.0,Casablanca,Aïn Chock,90,,,,,8333.333333333334
+Commerce,2000000.0,Marrakech,Guéliz,100,,,,,20000.0
+Commerce,2800000.0,Casablanca,Maarif,72,,,,,38888.88888888889
+Commerce,380000.0,Agadir,Taddart Anza,23,,,,,16521.739130434784
+Commerce,2500000.0,Rabat,Hay Riad,85,,,,,29411.764705882353
+Commerce,1400000.0,Essaouira,Centre ville,80,,,,,17500.0
+Commerce,2775000.0,Casablanca,Bourgogne,111,,,,,25000.0
+Commerce,450000.0,Marrakech,Massira 1,25,,,,,18000.0
+Commerce,3000000.0,Fès,Ain Amiyer,200,,,,,15000.0
+Commerce,2800000.0,Casablanca,Mers Sultan,147,,,,,19047.61904761905
+Commerce,850000.0,Fès,Saies,146,,,,,5821.917808219178
+Commerce,130000.0,Fès,Ben Souda,31,,,,,4193.548387096775
+Commerce,2300000.0,Casablanca,Oulfa,256,,,,,8984.375
+Commerce,2400000.0,Rabat,Agdal,87,,,,,27586.206896551725
+Terrain_Ferme,4100000.0,Larache,Toute la ville,31200,,,,,131.4102564102564
+Terrain_Ferme,460000.0,Benslimane,Autre secteur,2900,,,,,158.6206896551724
+Terrain_Ferme,1100000.0,Béni Yakhlef,Toute la ville,173,,,,,6358.381502890174
+Terrain_Ferme,6500000.0,Rabat,Hay Riad,450,,,,,14444.444444444443
+Terrain_Ferme,950000.0,Sidi Bouzid,Toute la ville,255,,,,,3725.4901960784314
+Terrain_Ferme,900000.0,Azemmour,Toute la ville,282,,,,,3191.4893617021276
+Terrain_Ferme,1500000.0,Benslimane,Autre secteur,1556,,,,,964.0102827763496
+Terrain_Ferme,1200000.0,Benslimane,Autre secteur,10000,,,,,120.0
+Terrain_Ferme,550000.0,Temara,Harhoura,4700,,,,,117.02127659574468
+Terrain_Ferme,6000000.0,Marrakech,Route de Fès,19200,,,,,312.5
+Terrain_Ferme,300000.0,Marrakech,Route de Casablanca,300,,,,,1000.0
+Terrain_Ferme,450000.0,Fès,Oued Fès,222,,,,,2027.027027027027
+Terrain_Ferme,2200000.0,Marrakech,Route de Casablanca,10000,,,,,220.0
+Terrain_Ferme,760000.0,Salé,Toute la ville,10000,,,,,76.0
+Terrain_Ferme,1150000.0,Tifelt,Toute la ville,30000,,,,,38.333333333333336
+Terrain_Ferme,260000.0,Casablanca,Autre secteur,54000,,,,,4.814814814814815
+Terrain_Ferme,260000.0,Kénitra,Autre secteur,54000,,,,,4.814814814814815
+Terrain_Ferme,1500000.0,Casablanca,Oulfa,30000,,,,,50.0
+Terrain_Ferme,900000.0,Khemisset,Toute la ville,10000,,,,,90.0
+Appartement,210000.0,Casablanca,Ferme Bretone,98,2.0,2.0,,,2142.8571428571427
+Appartement,218500.0,Casablanca,Palmier,120,2.0,2.0,,,1820.8333333333333
+Appartement,1380000.0,Sidi Allal El Bahraoui,Toute la ville,69,2.0,0.0,,,20000.0
+Appartement,12400000.0,Rabat,Kébibat,180,3.0,2.0,,,68888.88888888889
+Terrain_Ferme,2000000.0,Zagora,Toute la ville,3000,,,,,666.6666666666666
+Appartement,3520000.0,Marrakech,Route de Safi,56,2.0,1.0,,,62857.142857142855
+Appartement,21975000.0,Casablanca,Californie,105,3.0,2.0,,,209285.7142857143
+Villa_Riad,6500000.0,Rabat,Souissi,500,4.0,3.0,,,13000.0
+Villa_Riad,980000.0,El Jadida,Autre secteur,130,3.0,3.0,,,7538.461538461538
+Villa_Riad,13000000.0,Marrakech,Bab Doukkala,557,12.0,4.0,,,23339.317773788152
+Villa_Riad,4750000.0,Berrechid,Toute la ville,4140,4.0,,,,1147.342995169082
+Villa_Riad,8500000.0,Marrakech,Route de Tahanaoute,480,5.0,6.0,,,17708.333333333332
+Maison,1110000.0,Skhirat,Ain el Hayat,100,6.0,4.0,,,11100.0
+Maison,1400000.0,Casablanca,Al Fida,74,7.0,4.0,,,18918.91891891892
+Maison,1230000.0,Cap de l'eau,Toute la ville,2261230,3.0,1.0,,,0.5439517430778824
+Maison,1040000.0,Meknès,El Bassatine,110,5.0,3.0,,,9454.545454545454
+Maison,1350000.0,Nador,Ouled boutaib,100,4.0,2.0,,,13500.0
+Maison,800000.0,Asilah,Toute la ville,103,3.0,2.0,,,7766.9902912621355
+Maison,750000.0,Casablanca,Autre secteur,80,2.0,1.0,,,9375.0
+Maison,1450000.0,Marrakech,Jemaa El Fna,80,4.0,2.0,,,18125.0
+Maison,1900000.0,Casablanca,Aïn Chock,252,5.0,3.0,,,7539.68253968254
+Maison,4020000.0,Marrakech,Agdal,380,4.0,,,,10578.947368421053
+Maison,1190000.0,Casablanca,Sidi Bernoussi,114,3.0,2.0,,,10438.59649122807
+Maison,190000.0,Meknès,Wislane,60,2.0,2.0,,,3166.6666666666665
+Maison,300000.0,Chellalate,Toute la ville,62,2.0,1.0,,,4838.709677419355
+Maison,1600000.0,Marrakech,Amerchich,78,4.0,2.0,,,20512.82051282051
+Bureau_Plateau,31950000.0,Casablanca,Racine,110,,1.0,,,290454.54545454547
+Bureau_Plateau,4860000.0,Casablanca,Centre Ville,108,,,,,45000.0
+Bureau_Plateau,3380000.0,Casablanca,Belvédère,32,,1.0,,,105625.0
+Commerce,520000.0,Deroua,Toute la ville,21,,,,,24761.904761904763
+Commerce,8950000.0,Casablanca,Maarif,214,,,,,41822.42990654206
+Commerce,480000.0,Agadir,El Houda,19,,,,,25263.157894736843
+Commerce,400000.0,Salé,Toute la ville,24,,,,,16666.666666666668
+Commerce,3950000.0,Berrechid,Toute la ville,290,,,,,13620.689655172415
+Commerce,6000000.0,Meknès,Hamria,320,,,,,18750.0
+Commerce,6950000.0,Kénitra,Mimosas,320,,,,,21718.75
+Terrain_Ferme,4080000.0,Marrakech,Guéliz,240,,,,,17000.0
+Terrain_Ferme,1950000.0,Benslimane,Autre secteur,13000,,,,,150.0
+Terrain_Ferme,2800000.0,Benslimane,Autre secteur,35500,,,,,78.87323943661971
+Terrain_Ferme,8000000.0,Benslimane,Autre secteur,14000,,,,,571.4285714285714
+Terrain_Ferme,450000.0,Aourir,Toute la ville,1500,,,,,300.0
+Terrain_Ferme,780000.0,Marrakech,Centre Ville,72000,,,,,10.833333333333334
+Terrain_Ferme,7200000.0,El Jadida,Autre secteur,360000,,,,,20.0
+Terrain_Ferme,7200000.0,El Jadida,Autre secteur,360000,,,,,20.0
+Terrain_Ferme,2870000.0,El Jadida,Autre secteur,2000,,,,,1435.0
+Terrain_Ferme,1780000.0,El Jadida,Autre secteur,3140,,,,,566.8789808917197
+Terrain_Ferme,1780000.0,Agadir,Al Wifaq,178,,,,,10000.0
+Appartement,113000.0,Marrakech,Autre secteur,80,2.0,2.0,,,1412.5
+Appartement,2750000.0,Bouznika,Al Kawtar,80,2.0,2.0,,,34375.0
+Appartement,21600000.0,Temara,Wifak,128,3.0,2.0,,,168750.0
+Appartement,41400000.0,Marrakech,Bab Doukkala,122,2.0,1.0,,,339344.262295082
+Appartement,11350000.0,Marrakech,Agdal,60,1.0,1.0,,,189166.66666666666
+Appartement,21550000.0,Marrakech,Guéliz,84,2.0,2.0,,,256547.61904761905
+Appartement,117999.0,Casablanca,Palmier,160,2.0,3.0,,,737.49375
+Appartement,112000.0,Marrakech,Hivernage,100,3.0,2.0,,,1120.0
+Appartement,2360000.0,Dar Bouazza,Toute la ville,50,2.0,1.0,,,47200.0
+Appartement,710000.0,Casablanca,Palmier,70,2.0,3.0,,,10142.857142857143
+Appartement,4800000.0,Casablanca,Belvédère,80,2.0,2.0,,,60000.0
+Appartement,1660000.0,Kénitra,Al Maghrib Al Arabi,80,2.0,1.0,,,20750.0
+Appartement,21900000.0,Tétouan,Centre ville,260,9.0,2.0,,,84230.76923076923
+Appartement,117900.0,Marrakech,Victor Hugo,63,1.0,1.0,,,1871.4285714285713
+Appartement,2320000.0,Kénitra,Bir Rami,70,2.0,1.0,,,33142.857142857145
+Appartement,2950000.0,Casablanca,Franceville,38,1.0,1.0,,,77631.57894736843
+Appartement,2100000.0,Saidia,Toute la ville,180,2.0,2.0,,,11666.666666666668
+Appartement,31550000.0,Casablanca,Bourgogne,140,2.0,1.0,,,225357.14285714287
+Appartement,31900000.0,Casablanca,Ferme Bretone,94,2.0,2.0,,,339361.7021276596
+Appartement,110000.0,Casablanca,Ferme Bretone,100,2.0,2.0,,,1100.0
+Appartement,314000.0,Rabat,Agdal,155,3.0,2.0,,,2025.8064516129032
+Appartement,43500000.0,Casablanca,Racine,165,3.0,3.0,,,263636.36363636365
+Appartement,413000.0,Marrakech,Route de Safi,84,2.0,2.0,,,4916.666666666667
+Appartement,31940000.0,Casablanca,Ferme Bretone,97,2.0,2.0,,,329278.3505154639
+Appartement,1800000.0,Kénitra,Bir Rami,80,3.0,1.0,,,22500.0
+Appartement,4360000.0,Tanger,Autre secteur,50,2.0,1.0,,,87200.0
+Appartement,31800000.0,Casablanca,Bourgogne,68,2.0,1.0,,,467647.0588235294
+Villa_Riad,5500000.0,El Jadida,Autre secteur,7000,6.0,4.0,,,785.7142857142857
+Villa_Riad,4000000.0,Temara,Autre secteur,200,6.0,4.0,,,20000.0
+Villa_Riad,1740000.0,El Jadida,Al Boustane,260,4.0,3.0,,,6692.307692307692
+Villa_Riad,9500000.0,Tameslohte,Toute la ville,1000,6.0,6.0,,,9500.0
+Villa_Riad,4890000.0,Bouskoura,Victoria,380,4.0,4.0,,,12868.421052631578
+Villa_Riad,3920000.0,Kénitra,Val Fleury,335,5.0,3.0,,,11701.492537313434
+Commerce,3200000.0,Casablanca,Les Princesses,151,,,,,21192.05298013245
+Commerce,1650000.0,Casablanca,Ain Sebaa,147,,,,,11224.489795918367
+Commerce,3200000.0,Casablanca,Les Princesses,151,,,,,21192.05298013245
+Commerce,1360000.0,Casablanca,Ain Sebaa,68,,,,,20000.0
+Commerce,1500000.0,Casablanca,Mandarona,114,,,,,13157.894736842105
+Commerce,6200000.0,Sidi Hajjaj Oued Hassar,Toute la ville,160,,,,,38750.0
+Terrain_Ferme,1500000.0,Benslimane,Autre secteur,12000,,,,,125.0
+Terrain_Ferme,2200000.0,Tifelt,Toute la ville,43800,,,,,50.22831050228311
+Terrain_Ferme,3000000.0,Marrakech,Les Portes de Marrakech,1000,,,,,3000.0
+Terrain_Ferme,3000000.0,Sidi Yahya Zaer,Toute la ville,13000,,,,,230.76923076923077
+Terrain_Ferme,1650000.0,Marrakech,Route de Casablanca,22500,,,,,73.33333333333333
+Terrain_Ferme,5000000.0,Marrakech,Hay Targa,1000,,,,,5000.0
+Terrain_Ferme,570000.0,Oujda,Autre secteur,150,,,,,3800.0
+Terrain_Ferme,2925000.0,Mohammedia,La Siesta,450,,,,,6500.0
+Terrain_Ferme,250000.0,Sahel Oulad H'riz,Toute la ville,2000,,,,,125.0
+Terrain_Ferme,312000.0,Oujda,Autre secteur,120,,,,,2600.0
+Terrain_Ferme,2800000.0,Marrakech,Hay Targa,400,,,,,7000.0
+Terrain_Ferme,860000.0,Temara,Harhoura,13196,,,,,65.17126401939981
+Terrain_Ferme,350000.0,Khemisset,Toute la ville,300,,,,,1166.6666666666667
+Terrain_Ferme,2600000.0,Sidi Allal El Bahraoui,Toute la ville,18960,,,,,137.13080168776372
+Terrain_Ferme,1200000.0,Benslimane,Autre secteur,10001,,,,,119.98800119988002
+Terrain_Ferme,910000.0,El Jadida,Autre secteur,3600,,,,,252.77777777777777
+Terrain_Ferme,3800000.0,Tassoultante,Toute la ville,636,,,,,5974.842767295598
+Terrain_Ferme,399000.0,Safi,Sidi Bouzid,140,,,,,2850.0
+Terrain_Ferme,1050000.0,Meknès,Autre secteur,300,,,,,3500.0
+Terrain_Ferme,3200000.0,Temara,Wifak,230,,,,,13913.04347826087
+Terrain_Ferme,220000.0,Imouzzer-Kendar,Toute la ville,300,,,,,733.3333333333334
+Terrain_Ferme,1300000.0,Salé,Sidi Moussa,144,,,,,9027.777777777777
+Terrain_Ferme,800000.0,Bir Jdid,Toute la ville,10000,,,,,80.0
+Terrain_Ferme,800000.0,Sidi Rahal,Toute la ville,10000,,,,,80.0
+Appartement,5750000.0,Mohammedia,Wafa,154,2.0,0.0,,,37337.66233766234
+Appartement,5607000.0,Mohammedia,Wafa,130,1.0,0.0,,,43130.769230769234
+Appartement,1400000.0,Marrakech,M'Hamid,56,2.0,1.0,,,25000.0
+Appartement,5980000.0,Casablanca,Oulfa,78,2.0,2.0,,,76666.66666666667
+Appartement,4600000.0,Marrakech,Route de Casablanca,52,2.0,1.0,,,88461.53846153847
+Appartement,1110000.0,Casablanca,Hay Hassani,81,2.0,2.0,,,13703.703703703704
+Appartement,1700000.0,Dar Bouazza,Toute la ville,47,3.0,1.0,,,36170.21276595745
+Appartement,3870000.0,Kénitra,alliance,72,2.0,2.0,,,53750.0
+Appartement,3586000.0,Essaouira,Essaouira El Jadida,142,2.0,0.0,,,25253.521126760563
+Appartement,11008000.0,Marrakech,Guéliz,56,1.0,1.0,,,196571.42857142858
+Appartement,3750000.0,Kénitra,Autre secteur,80,3.0,2.0,,,46875.0
+Appartement,22370000.0,Dar Bouazza,Toute la ville,145,2.0,2.0,,,154275.8620689655
+Appartement,414500.0,Casablanca,Palmier,130,3.0,2.0,,,3188.4615384615386
+Appartement,1680000.0,Kénitra,alliance,77,2.0,2.0,,,21818.181818181816
+Appartement,113000.0,Rabat,Hay Riad,120,2.0,1.0,,,941.6666666666666
+Appartement,11100000.0,Kénitra,La Ville Haute,154,3.0,3.0,,,72077.92207792208
+Appartement,22010000.0,Casablanca,Californie,112,3.0,2.0,,,196517.85714285713
+Appartement,11425000.0,Tanger,Tanja Balia,95,3.0,2.0,,,120263.15789473684
+Appartement,11260000.0,Casablanca,Nassim,90,2.0,1.0,,,125111.11111111111
+Appartement,3480000.0,El Jadida,Autre secteur,140,2.0,2.0,,,24857.14285714286
+Appartement,4680000.0,Marrakech,M'Hamid,68,3.0,1.0,,,68823.5294117647
+Appartement,11600000.0,Marrakech,Guéliz,84,2.0,2.0,,,138095.2380952381
+Appartement,850000.0,Bouskoura,Bouskoura centre,35,2.0,1.0,,,24285.714285714286
+Appartement,311000.0,Marrakech,Amerchich,100,2.0,1.0,,,3110.0
+Appartement,2280000.0,Casablanca,Autre secteur,54,2.0,1.0,,,42222.22222222222
+Appartement,1390000.0,Mohammedia,Quartier du Parc,97,4.0,3.0,,,14329.896907216495
+Appartement,212500.0,Casablanca,Racine,140,3.0,2.0,,,1517.857142857143
+Appartement,1250000.0,Sidi Rahal,Toute la ville,87,2.0,2.0,,,14367.816091954022
+Appartement,323000.0,Casablanca,Aïn Diab,200,3.0,3.0,,,1615.0
+Appartement,2300000.0,Kénitra,Bir Rami,66,2.0,1.0,,,34848.48484848485
+Villa_Riad,842000.0,Marrakech,M'Hamid,301,,,,,2797.34219269103
+Villa_Riad,3200000.0,Mohammedia,Quartier Du Soleil,316,4.0,3.0,,,10126.582278481013
+Villa_Riad,4900000.0,Casablanca,Aïn Diab,375,4.0,5.0,,,13066.666666666668
+Villa_Riad,15000000.0,Rabat,Hay Riad,1200,4.0,5.0,,,12500.0
+Villa_Riad,2700000.0,Settat,Alouane,287,4.0,5.0,,,9407.665505226481
+Villa_Riad,4500000.0,Marrakech,Route de Casablanca,403,4.0,4.0,,,11166.253101736973
+Villa_Riad,6500000.0,Rabat,Souissi,400,4.0,3.0,,,16250.0
+Villa_Riad,3150000.0,Dakhla,Toute la ville,265,5.0,5.0,,,11886.792452830188
+Villa_Riad,15000000.0,Rabat,Souissi,1950,5.0,4.0,,,7692.307692307692
+Villa_Riad,5800000.0,Marrakech,Route de Tahanaoute,500,4.0,2.0,,,11600.0
+Villa_Riad,5200000.0,Casablanca,Oasis,271,4.0,2.0,,,19188.191881918818
+Maison,1280000.0,Kénitra,alliance,200,4.0,3.0,,,6400.0
+Maison,560000.0,Oujda,Centre Ville,67,3.0,3.0,3.0,,8358.208955223881
+Maison,2800000.0,Marrakech,Hay Izdihar,100,2.0,,,,28000.0
+Maison,2300000.0,Tanger,Tanja Balia,70,4.0,2.0,,,32857.142857142855
+Maison,1000000.0,Er-Rich,Toute la ville,200,4.0,2.0,,,5000.0
+Maison,4350000.0,Rabat,Yacoub El Mansour,170,6.0,2.0,,,25588.235294117647
+Maison,1000000.0,Ain Aouda,Toute la ville,81,2.0,2.0,,,12345.67901234568
+Bureau_Plateau,1860000.0,Kénitra,Autre secteur,76,,0.0,,,24473.684210526317
+Maison,1100000.0,Marrakech,Bab El Khemis,107,2.0,2.0,,,10280.373831775702
+Bureau_Plateau,41659000.0,Agadir,Abattoirs,96,,,,,433947.9166666667
+Bureau_Plateau,211500.0,Fès,Agdal,68,,1.0,,,3110.294117647059
+Bureau_Plateau,31295000.0,Casablanca,Abdelmoumen,117,,2.0,,,267478.6324786325
+Bureau_Plateau,41224000.0,Tanger,Al Mandar Al Jamil,75,,1.0,,,549653.3333333334
+Bureau_Plateau,11105500.0,Marrakech,Guéliz,67,,1.0,,,165753.73134328358
+Commerce,1278000.0,Tanger,Drissia,451,,,,,2833.70288248337
+Commerce,900000.0,Marrakech,Allal El Fassi,17,,,,,52941.17647058824
+Commerce,594000.0,Had Soualem,Toute la ville,68,,,,,8735.29411764706
+Commerce,435000.0,Rabat,Autre secteur,29,,,,,15000.0
+Commerce,393000.0,Essaouira,Ghazoua,131,,,,,3000.0
+Commerce,272000.0,Salé,Sala El Jadida,46,,,,,5913.04347826087
+Commerce,573300.0,Tanger,Branes 2,252,,,,,2275.0
+Commerce,1270000.0,Mohammedia,Wafa,368,,,,,3451.086956521739
+Commerce,2140000.0,Casablanca,Gauthier,63,,,,,33968.253968253965
+Commerce,469000.0,Nouaceur,Toute la ville,165,,,,,2842.4242424242425
+Commerce,435000.0,Temara,Massira 2,29,,,,,15000.0
+Commerce,2450000.0,Casablanca,Hay Mohammadi,308,,,,,7954.545454545455
+Commerce,492000.0,Marrakech,Bouaakkaz,55,,,,,8945.454545454546
+Appartement,21080000.0,Casablanca,Hay Mohammadi,120,3.0,2.0,,,175666.66666666666
+Appartement,2690000.0,Temara,Wifak,64,2.0,1.0,,,42031.25
+Appartement,413500.0,Marrakech,Guéliz,110,3.0,2.0,,,3759.090909090909
+Appartement,1900000.0,Tanger,Ahlane,66,2.0,1.0,,,28787.878787878788
+Appartement,3560000.0,Marrakech,Hay Izdihar,60,2.0,1.0,,,59333.333333333336
+Appartement,215500.0,Rabat,Autre secteur,185,3.0,3.0,,,1164.8648648648648
+Appartement,22000000.0,Agadir,Secteur Touristique,134,2.0,3.0,,,164179.10447761195
+Appartement,11200000.0,Marrakech,Targa,106,3.0,2.0,,,105660.37735849057
+Appartement,32500000.0,Sidi Bouknadel,Toute la ville,98,2.0,2.0,,,331632.6530612245
+Appartement,1190000.0,Rabat,Hay Arrachad,60,2.0,1.0,,,19833.333333333332
+Appartement,5495000.0,Mohammedia,Centre Ville,111,1.0,0.0,,,49504.504504504504
+Appartement,42250000.0,Casablanca,Gauthier,134,3.0,2.0,,,315298.50746268657
+Appartement,1300000.0,Tamaris,Toute la ville,86,2.0,2.0,,,15116.279069767443
+Appartement,21830000.0,Marrakech,Av Mohammed VI,116,2.0,0.0,,,188189.6551724138
+Appartement,53000000.0,Casablanca,Racine,134,3.0,3.0,,,395522.3880597015
+Appartement,112000.0,Marrakech,Hivernage,130,2.0,3.0,,,861.5384615384615
+Appartement,41350000.0,Marrakech,Route de Safi,95,2.0,1.0,,,435263.15789473685
+Appartement,2630000.0,Skhirat,Autre secteur,64,2.0,1.0,,,41093.75
+Appartement,1627000.0,Dar Bouazza,Toute la ville,78,2.0,2.0,,,20858.97435897436
+Appartement,62596000.0,Casablanca,Gauthier,138,2.0,2.0,,,453594.2028985507
+Appartement,4715000.0,Temara,Massira 2,109,2.0,0.0,,,43256.880733944956
+Appartement,51295900.0,Casablanca,Maarif,54,1.0,1.0,,,949924.074074074
+Appartement,4250000.0,Had Soualem,Toute la ville,65,3.0,0.0,,,65384.61538461538
+Appartement,43900000.0,Tanger,Autre secteur,145,2.0,3.0,,,302758.6206896552
+Appartement,2999000.0,Bouskoura,Victoria,103,3.0,2.0,,,29116.504854368934
+Appartement,1640000.0,Bouskoura,Victoria,60,2.0,2.0,,,27333.333333333332
+Appartement,51500000.0,Marrakech,Guéliz,106,2.0,1.0,,,485849.0566037736
+Appartement,11500000.0,Casablanca,Centre Ville,94,2.0,2.0,,,122340.4255319149
+Appartement,4530000.0,Marrakech,M'Hamid,122,2.0,0.0,,,37131.147540983606
+Appartement,61850000.0,Casablanca,Oasis,105,2.0,2.0,,,589047.619047619
+Villa_Riad,7650000.0,Casablanca,Anfa,398,4.0,5.0,,,19221.105527638192
+Villa_Riad,7400000.0,Bouskoura,Ville verte,450,4.0,4.0,,,16444.444444444445
+Villa_Riad,13500000.0,Rabat,Souissi,1300,6.0,4.0,,,10384.615384615385
+Villa_Riad,6000000.0,Sidi Bouknadel,Toute la ville,665,4.0,4.0,,,9022.556390977443
+Villa_Riad,7800000.0,Casablanca,Aïn Chock,700,5.0,5.0,,,11142.857142857143
+Villa_Riad,4950000.0,Dar Bouazza,Toute la ville,450,9.0,5.0,,,11000.0
+Villa_Riad,6700000.0,Temara,Harhoura,357,4.0,4.0,,,18767.50700280112
+Villa_Riad,2700000.0,Had Soualem,Toute la ville,360,6.0,4.0,,,7500.0
+Villa_Riad,4700000.0,Marrakech,Targa,410,4.0,3.0,,,11463.41463414634
+Villa_Riad,4300000.0,Bouskoura,Bouskoura centre,450,4.0,3.0,,,9555.555555555555
+Villa_Riad,4300000.0,Dar Bouazza,Toute la ville,194,4.0,4.0,,,22164.948453608245
+Villa_Riad,8000000.0,Casablanca,Polo,800,5.0,4.0,,,10000.0
+Villa_Riad,2630000.0,El Jadida,Al Kodia,299,3.0,2.0,,,8795.986622073578
+Villa_Riad,2178000.0,Salé,Toute la ville,553,4.0,,,,3938.517179023508
+Villa_Riad,3800000.0,Nouaceur,Toute la ville,317,4.0,3.0,,,11987.381703470031
+Maison,350000.0,Tanger,Les Rosiers,300,2.0,1.0,,,1166.6666666666667
+Maison,750000.0,Marrakech,Autre secteur,80,4.0,2.0,,,9375.0
+Maison,1300000.0,Marrakech,Bab El Khemis,104,3.0,1.0,,,12500.0
+Maison,1850000.0,Tanger,Aouama Gharbia,90,4.0,2.0,,,20555.555555555555
+Maison,3100000.0,Tanger,Ennasr,120,5.0,3.0,,,25833.333333333332
+Maison,670000.0,Tétouan,Ziana,85,3.0,1.0,,,7882.35294117647
+Maison,1500000.0,Tanger,Tanja Balia,100,3.0,2.0,,,15000.0
+Maison,2600000.0,Marrakech,Bd Moulay Abdellah,223,5.0,3.0,,,11659.192825112108
+Maison,1050000.0,Oujda,Sidi Yahya,120,9.0,4.0,,,8750.0
+Maison,5300000.0,Tanger,Moujahidine,100,8.0,4.0,,,53000.0
+Maison,1400000.0,Nouaceur,Toute la ville,128,4.0,3.0,,,10937.5
+Maison,2950000.0,Bouznika,Autre secteur,120,6.0,5.0,3.0,,24583.333333333332
+Maison,1300000.0,Marrakech,Oued Ourika,300,2.0,1.0,,,4333.333333333333
+Maison,1100000.0,Marrakech,Autre secteur,100,3.0,2.0,,,11000.0
+Maison,2000000.0,Agadir,Autre secteur,110,5.0,5.0,,,18181.818181818184
+Bureau_Plateau,21250000.0,Mohammedia,Centre Ville,83,,,,,256024.09638554216
+Bureau_Plateau,41200000.0,Casablanca,Quartier des Hôpitaux,100,,1.0,,,412000.0
+Bureau_Plateau,2250000.0,Rabat,Hay Riad,85,,2.0,,,26470.58823529412
+Bureau_Plateau,2845000.0,Temara,Centre Ville,59,,1.0,,,48220.338983050846
+Commerce,930000.0,Marrakech,Guéliz,28,,,,,33214.28571428572
+Commerce,620000.0,Kénitra,Bir Rami Industriel,59,,,,,10508.474576271186
+Commerce,400000.0,Fès,Agdal,18,,,,,22222.222222222223
+Commerce,1950000.0,Salé,Sala El Jadida,81,,,,,24074.074074074073
+Commerce,760000.0,Bouznika,Al Kawtar,132,,,,,5757.575757575758
+Commerce,2500000.0,Tanger,Branes 1,100,,,,,25000.0
+Commerce,850000.0,Casablanca,Hay Mohammadi,81,,,,,10493.827160493827
+Commerce,1200000.0,Marrakech,Guéliz,30,,,,,40000.0
+Commerce,1850000.0,Casablanca,Sidi Othmane,364,,,2.0,,5082.417582417583
+Commerce,375000.0,Bouznika,Al Kawtar,61,,,,,6147.540983606557
+Commerce,1320000.0,Casablanca,Ain Sebaa,137,,,,,9635.036496350365
+Commerce,3250000.0,Salé,Tabriquet,207,,,,,15700.48309178744
+Commerce,3400000.0,Temara,Harhoura,108,,,,,31481.48148148148
+Commerce,1450000.0,Temara,Autre secteur,128,,,,,11328.125
+Commerce,1300000.0,Casablanca,Oulfa,53,,,,,24528.301886792455
+Commerce,1650000.0,Temara,Abbadi,110,,,,,15000.0
+Commerce,4200000.0,Salé,Tabriquet,300,,,,,14000.0
+Commerce,3500000.0,Casablanca,Belvédère,150,,,,,23333.333333333332
+Commerce,102500.0,Kénitra,Taïbia,51,,,,,2009.8039215686274
+Commerce,136000.0,Al Hoceima,Toute la ville,26,,,,,5230.7692307692305
+Commerce,781250.0,Agadir,Cité Adrar,112,,,,,6975.446428571428
+Commerce,950000.0,Marrakech,Rouidat,48,,,,,19791.666666666668
+Commerce,790000.0,Casablanca,Sidi Othmane,60,,,,,13166.666666666668
+Terrain_Ferme,1200000.0,Marrakech,Route de Casablanca,5000,,,,,240.0
+Terrain_Ferme,200000.0,Marrakech,Route de Fès,200,,,,,1000.0
+Terrain_Ferme,650000.0,Marrakech,Route de Casablanca,5400,,,,,120.37037037037037
+Terrain_Ferme,500000.0,Marrakech,Route de Fès,1130,,,,,442.4778761061947
+Terrain_Ferme,600000.0,Tifelt,Toute la ville,8600,,,,,69.76744186046511
+Terrain_Ferme,270000.0,Marrakech,Route de Fès,500,,,,,540.0
+Terrain_Ferme,460000.0,Tifelt,Toute la ville,2700,,,,,170.37037037037038
+Terrain_Ferme,600000.0,Marrakech,Route de Casablanca,4500,,,,,133.33333333333334
+Terrain_Ferme,2400000.0,Benslimane,Autre secteur,37272,,,,,64.39150032195751
+Terrain_Ferme,2332000.0,Kénitra,El Haddada,486,,,,,4798.3539094650205
+Terrain_Ferme,1800000.0,Benslimane,Autre secteur,30000,,,,,60.0
+Terrain_Ferme,1700000.0,Benslimane,Autre secteur,15645,,,,,108.66091403004155
+Terrain_Ferme,750000.0,Marrakech,Route de Fès,3600,,,,,208.33333333333334
+Terrain_Ferme,820000.0,Sidi Rahal,Toute la ville,180,,,,,4555.555555555556
+Terrain_Ferme,3525000.0,Marrakech,Route de Casablanca,47000,,,,,75.0
+Terrain_Ferme,1170000.0,Settat,Hay salam,234,,,,,5000.0
+Terrain_Ferme,1080000.0,Marrakech,Route d'Amezmiz,423,,,,,2553.191489361702
+Terrain_Ferme,414000.0,Had Soualem,Toute la ville,120,,,2.0,,3450.0
+Terrain_Ferme,175000.0,Ben Guerir,Toute la ville,70,,,,,2500.0
+Terrain_Ferme,2400000.0,Kénitra,El Haddada,399,,,,,6015.037593984963
+Terrain_Ferme,550000.0,Marrakech,Route de Fès,4500,,,,,122.22222222222223
+Terrain_Ferme,1500000.0,Marrakech,Route de Fès,3000,,,,,500.0
+Terrain_Ferme,320000.0,Marrakech,Route de Fès,660,,,,,484.8484848484849
+Terrain_Ferme,2750000.0,Marrakech,Route de Tahanaoute,500,,,,,5500.0
+Terrain_Ferme,593000.0,Had Soualem,Toute la ville,147,,,3.0,,4034.013605442177
+Appartement,117000.0,Marrakech,Hivernage,100,2.0,1.0,,,1170.0
+Appartement,3300000.0,Marrakech,Agdal,100,3.0,2.0,,,33000.0
+Appartement,4450000.0,Béni Yakhlef,Toute la ville,65,3.0,2.0,,,68461.53846153847
+Appartement,11200000.0,Marrakech,Mabrouka,70,2.0,2.0,,,160000.0
+Appartement,2860000.0,Casablanca,Hay Hassani,78,2.0,2.0,,,36666.666666666664
+Appartement,21550000.0,Cabo Negro,Toute la ville,63,2.0,0.0,,,342063.49206349207
+Appartement,2650000.0,Bouznika,Autre secteur,65,2.0,2.0,,,40769.230769230766
+Appartement,1850000.0,Temara,Ain Atig,90,2.0,2.0,,,20555.555555555555
+Appartement,42100000.0,Marrakech,Guéliz,95,2.0,2.0,,,443157.8947368421
+Appartement,12000000.0,Marrakech,Route de Tahanaoute,80,2.0,1.0,,,150000.0
+Appartement,23000000.0,Casablanca,Palmier,227,4.0,3.0,,,101321.5859030837
+Appartement,41050000.0,Temara,Abbadi,134,3.0,1.0,,,306343.2835820895
+Appartement,412500.0,Rabat,Agdal,160,3.0,2.0,,,2578.125
+Appartement,11212500.0,Marrakech,Guéliz,48,1.0,0.0,,,233593.75
+Appartement,32200000.0,Marrakech,Semlalia,101,2.0,2.0,,,318811.88118811883
+Appartement,514000.0,Marrakech,Majorelle,130,2.0,2.0,,,3953.846153846154
+Appartement,112000.0,Marrakech,Guéliz,80,3.0,2.0,,,1400.0
+Appartement,2380000.0,Casablanca,Ain Sebaa,56,2.0,1.0,,,42500.0
+Appartement,31300000.0,Marrakech,Hivernage,87,2.0,1.0,,,359770.1149425287
+Appartement,724000.0,Casablanca,La Gironde,71,2.0,2.0,,,10197.18309859155
+Appartement,2500000.0,Marrakech,Agdal,78,2.0,2.0,,,32051.28205128205
+Appartement,410000.0,Mohammedia,Centre Ville,122,2.0,2.0,,,3360.655737704918
+Appartement,11150000.0,Casablanca,Oulfa,93,2.0,2.0,,,119892.47311827957
+Appartement,416000.0,Rabat,Agdal,200,4.0,2.0,,,2080.0
+Appartement,110500.0,Marrakech,Guéliz,84,2.0,2.0,,,1315.4761904761904
+Appartement,12500000.0,Temara,Wifak,160,3.0,3.0,,,78125.0
+Appartement,11320000.0,Marrakech,Guéliz,60,2.0,1.0,,,188666.66666666666
+Appartement,1910000.0,Casablanca,Ain Sebaa,86,2.0,2.0,,,22209.302325581393
+Appartement,18000000.0,Rabat,Hay Riad,233,4.0,4.0,,,77253.21888412017
+Appartement,313500.0,Mohammedia,Autre secteur,124,2.0,2.0,,,2528.2258064516127
+Appartement,2450000.0,Tanger,Marjane,57,2.0,1.0,,,42982.45614035088
+Maison,1500000.0,Marrakech,Agdal,109,7.0,3.0,,,13761.467889908257
+Appartement,21200000.0,Tanger,Marjane,120,4.0,2.0,,,176666.66666666666
+Appartement,411000.0,Rabat,Agdal,140,2.0,2.0,,,2935.714285714286
+Appartement,22700000.0,Bouznika,Plage Oued Cherrat,124,3.0,2.0,,,183064.51612903227
+Appartement,2740000.0,Tanger,Marjane,74,2.0,2.0,,,37027.02702702703
+Villa_Riad,4600000.0,Marrakech,Route d'Amezmiz,250,5.0,4.0,,,18400.0
+Villa_Riad,4400000.0,Marrakech,Ancienne Médina,180,7.0,1.0,,,24444.444444444445
+Villa_Riad,4900000.0,Marrakech,Route d'Ourika,420,4.0,4.0,,,11666.666666666668
+Villa_Riad,4900000.0,Marrakech,Route d'Ourika,500,4.0,5.0,,,9800.0
+Villa_Riad,3900000.0,Marrakech,Hay Targa,325,4.0,3.0,,,12000.0
+Villa_Riad,5500000.0,Marrakech,Hay Targa,427,4.0,3.0,,,12880.56206088993
+Villa_Riad,3500000.0,Marrakech,Hay Targa,289,4.0,3.0,,,12110.726643598617
+Villa_Riad,3200000.0,Marrakech,Bab Doukkala,160,6.0,3.0,,,20000.0
+Villa_Riad,1650000.0,Marrakech,Guéliz,90,5.0,2.0,,,18333.333333333332
+Maison,600000.0,Marrakech,Sidi Youssef Ben Ali,69,3.0,1.0,,,8695.652173913044
+Maison,2300000.0,Tanger,Tanja Balia,70,4.0,2.0,,,32857.142857142855
+Maison,2800000.0,Agadir,Haut Anza,76,5.0,2.0,,,36842.10526315789
+Maison,1500000.0,Agadir,Hay Mohammadi,72,2.0,1.0,,,20833.333333333332
+Maison,200000.0,Fquih Ben Saleh,Toute la ville,54,2.0,3.0,,,3703.703703703704
+Maison,1360000.0,Kénitra,alliance,100,4.0,4.0,,,13600.0
+Commerce,130000.0,Oujda,Nour,100,,,,,1300.0
+Commerce,800000.0,Marrakech,Guéliz,36,,,,,22222.222222222223
+Commerce,1200000.0,Marrakech,Route de Casablanca,78,,,,,15384.615384615385
+Commerce,1700000.0,Tanger,Iberie,163,,,,,10429.447852760735
+Commerce,3500000.0,Tanger,Administratif,219,,,,,15981.735159817352
+Commerce,670000.0,Tanger,Centre ville,45,,,,,14888.888888888889
+Terrain_Ferme,960000.0,Kénitra,Autre secteur,129,,,,,7441.860465116279
+Terrain_Ferme,6000000.0,Marrakech,Route de Sidi A. Ghiat,50000,,,,,120.0
+Terrain_Ferme,1440000.0,Tanger,Tanja Balia,120,,,,,12000.0
+Terrain_Ferme,1250000.0,Fès,Autre secteur,5700,,,,,219.2982456140351
+Terrain_Ferme,1100000.0,Kénitra,quartier golf,220,,,,,5000.0
+Terrain_Ferme,2000000.0,Béni Mellal,Toute la ville,100000,,,,,20.0
+Terrain_Ferme,2000000.0,Tifelt,Toute la ville,50000,,,,,40.0
+Terrain_Ferme,750000.0,Casablanca,Lissasfa,100,,,,,7500.0
+Terrain_Ferme,8000000.0,Marrakech,Route de Casablanca,17000,,,,,470.5882352941176
+Terrain_Ferme,200000.0,Marrakech,Route d'Amezmiz,100,,,,,2000.0
+Terrain_Ferme,6500000.0,Marrakech,Route de Fès,33600,,,,,193.45238095238096
+Terrain_Ferme,2500000.0,Mohammedia,Autre secteur,14000,,,,,178.57142857142858
+Appartement,11550000.0,Marrakech,Guéliz,83,2.0,2.0,,,139156.6265060241
+Appartement,11000000.0,Skhirat,Autre secteur,99,3.0,2.0,,,111111.11111111111
+Appartement,11270000.0,Casablanca,Belvédère,116,2.0,2.0,,,97155.1724137931
+Appartement,4750000.0,Casablanca,Ain Sebaa,75,2.0,1.0,,,63333.333333333336
+Appartement,980000.0,Casablanca,Beauséjour,106,2.0,2.0,,,9245.283018867925
+Appartement,232000.0,Casablanca,Anfa,180,3.0,3.0,,,1288.888888888889
+Appartement,11000000.0,Casablanca,Bachkou,59,1.0,2.0,,,186440.6779661017
+Appartement,41300000.0,Casablanca,Maarif,82,2.0,2.0,,,503658.53658536583
+Appartement,12163000.0,Casablanca,Autre secteur,139,2.0,2.0,,,87503.59712230216
+Appartement,1900000.0,Tanger,Ahlane,66,2.0,1.0,,,28787.878787878788
+Villa_Riad,2500000.0,Marrakech,Assif,200,6.0,4.0,,,12500.0
+Appartement,3100000.0,Casablanca,Racine,181,3.0,3.0,,,17127.07182320442
+Appartement,1000000.0,Al Hoceima,Toute la ville,150,3.0,1.0,,,6666.666666666667
+Appartement,4200000.0,Casablanca,Casablanca Finance City,170,3.0,3.0,,,24705.882352941175
+Appartement,2600000.0,Casablanca,Sidi Moumen,73,2.0,2.0,,,35616.438356164384
+Villa_Riad,1795000.0,Marrakech,Route de Ouarzazate,800,4.0,3.0,,,2243.75
+Villa_Riad,3800000.0,Oujda,Autre secteur,550,5.0,4.0,,,6909.090909090909
+Villa_Riad,3950000.0,Agadir,Founty,187,4.0,4.0,,,21122.994652406418
+Villa_Riad,2350000.0,Marrakech,Route de Tamansourt,320,3.0,2.0,,,7343.75
+Villa_Riad,5500000.0,Tanger,Val Fleuri,306,6.0,3.0,,,17973.856209150326
+Villa_Riad,3700000.0,Marrakech,Targa,180,4.0,3.0,,,20555.555555555555
+Villa_Riad,6500000.0,Marrakech,Route d'Ourika,740,4.0,5.0,,,8783.783783783783
+Villa_Riad,1690000.0,El Jadida,Al Boustane,320,5.0,3.0,,,5281.25
+Maison,390000.0,Zaouïat Cheikh,Toute la ville,100,4.0,,,,3900.0
+Commerce,2550000.0,Casablanca,2 Mars,118,,,,,21610.169491525423
+Commerce,1400000.0,Kénitra,Bir Rami,114,,,,,12280.701754385966
+Terrain_Ferme,1800000.0,Sidi Hajjaj,Toute la ville,13602,,,,,132.33348037053375
+Terrain_Ferme,5600000.0,Agadir,Hay Mohammadi,800,,,,,7000.0
+Terrain_Ferme,6800000.0,Rabat,Hay Riad,440,,,,,15454.545454545456
+Terrain_Ferme,2400000.0,Marrakech,Av Mohammed VI,360,,,,,6666.666666666667
+Terrain_Ferme,6500000.0,Bouskoura,Bouskoura centre,10000,,,,,650.0
+Terrain_Ferme,1100000.0,Marrakech,Route de Casablanca,5000,,,,,220.0
+Terrain_Ferme,290000.0,Marrakech,Route de Casablanca,330,,,,,878.7878787878788
+Terrain_Ferme,950000.0,Marrakech,Route de Casablanca,1500,,,,,633.3333333333334
+Terrain_Ferme,3400000.0,Casablanca,Hay Mohammadi,286,,,4.0,,11888.111888111887
+Terrain_Ferme,600000.0,Marrakech,Sidi Abdellah Ghiat,1337,,,,,448.7658937920718
+Terrain_Ferme,3500000.0,Benslimane,Autre secteur,33860,,,,,103.36680448907265
+Terrain_Ferme,1200000.0,Benslimane,Autre secteur,11500,,,,,104.34782608695652
+Terrain_Ferme,680000.0,Ain Aouda,Toute la ville,201,,,,,3383.0845771144277
+Terrain_Ferme,2000000.0,El Jadida,Autre secteur,26520,,,,,75.41478129713424
+Terrain_Ferme,7500000.0,Bouskoura,Victoria,8391,,,,,893.8148015731141
+Terrain_Ferme,300000.0,Ksar es-Seghir,Toute la ville,200,,,,,1500.0
+Terrain_Ferme,2600000.0,Benslimane,Autre secteur,21000,,,,,123.80952380952381
+Terrain_Ferme,105000.0,Tifelt,Toute la ville,70,,,,,1500.0
+Terrain_Ferme,750000.0,Marrakech,Route de Casablanca,107,,,,,7009.345794392523
+Terrain_Ferme,320000.0,Settat,Hay salam,90,,,,,3555.5555555555557
+Terrain_Ferme,12000000.0,Skhirat,Autre secteur,10000,,,,,1200.0
+Terrain_Ferme,6600000.0,Zenata,Toute la ville,1100,,,,,6000.0
+Terrain_Ferme,2420000.0,Tamesna,Toute la ville,670,,,,,3611.9402985074626
+Terrain_Ferme,3600000.0,Bouznika,Al Kawtar,104000,,,,,34.61538461538461
+Appartement,31500000.0,Kénitra,Mimosas,170,3.0,2.0,,,185294.11764705883
+Appartement,42054000.0,Casablanca,Mers Sultan,158,3.0,2.0,,,266164.5569620253
+Appartement,1300000.0,Casablanca,Nassim,126,3.0,1.0,,,10317.460317460316
+Appartement,500000.0,Kénitra,Bir Rami,65,2.0,1.0,,,7692.307692307692
+Appartement,1710000.0,Bouznika,Autre secteur,108,2.0,2.0,,,15833.333333333332
+Appartement,31300000.0,Kénitra,Centre,110,3.0,1.0,,,284545.45454545453
+Appartement,212000.0,Casablanca,Les Princesses,78,2.0,2.0,,,2717.948717948718
+Appartement,1660000.0,Kénitra,Autre secteur,90,3.0,1.0,,,18444.444444444445
+Appartement,6750000.0,Kénitra,Maamora,117,2.0,1.0,,,57692.307692307695
+Appartement,1640000.0,Kénitra,alliance,90,2.0,2.0,,,18222.222222222223
+Appartement,3230000.0,Ain Harrouda,Toute la ville,80,2.0,1.0,,,40375.0
+Appartement,111800.0,Marrakech,Av Mohammed VI,74,2.0,1.0,,,1510.8108108108108
+Appartement,41650000.0,Marrakech,Guéliz,83,2.0,1.0,,,501807.2289156627
+Appartement,511000.0,Casablanca,Quartier des Hôpitaux,100,3.0,2.0,,,5110.0
+Appartement,2680000.0,Casablanca,Sidi Bernoussi,55,2.0,1.0,,,48727.27272727273
+Appartement,1420000.0,Azemmour,Toute la ville,90,3.0,2.0,,,15777.777777777777
+Appartement,21250000.0,Casablanca,Bourgogne,93,2.0,,,,228494.62365591398
+Villa_Riad,3850000.0,Dar Bouazza,Toute la ville,335,4.0,3.0,,,11492.537313432837
+Villa_Riad,5000000.0,Marrakech,Route de Casablanca,550,4.0,4.0,,,9090.90909090909
+Villa_Riad,2600000.0,Kénitra,alliance,200,3.0,3.0,,,13000.0
+Villa_Riad,2200000.0,Marrakech,Route d'Amezmiz,280,4.0,3.0,,,7857.142857142857
+Villa_Riad,4300000.0,Marrakech,Av Mohammed VI,350,6.0,4.0,,,12285.714285714286
+Villa_Riad,5450000.0,Sidi Boukhalkhal,Toute la ville,576,4.0,3.0,,,9461.805555555555
+Villa_Riad,2900000.0,Kénitra,Bir Rami Est,400,4.0,3.0,,,7250.0
+Villa_Riad,1600000.0,Marrakech,Route de Fès,3000,2.0,2.0,,,533.3333333333334
+Villa_Riad,2900000.0,Dar Bouazza,Toute la ville,160,3.0,3.0,,,18125.0
+Villa_Riad,9500000.0,Marrakech,Agdal,800,5.0,4.0,,,11875.0
+Villa_Riad,3100000.0,Fès,Route Ain Chkaf,240,7.0,4.0,,,12916.666666666668
+Maison,3400000.0,Casablanca,Sidi Maarouf,100,10.0,4.0,,,34000.0
+Maison,1350000.0,Kénitra,alliance,100,4.0,3.0,,,13500.0
+Maison,1250000.0,Nador,Autre secteur,326,5.0,3.0,,,3834.3558282208587
+Maison,2800000.0,Mohammedia,Riad 1,342,5.0,3.0,,,8187.1345029239765
+Maison,2500000.0,Imzouren,Toute la ville,130,5.0,2.0,,,19230.76923076923
+Maison,2500000.0,Kénitra,Ouled Oujih,380,5.0,2.0,,,6578.9473684210525
+Maison,580000.0,Tanger,Casabarata,55,2.0,1.0,,,10545.454545454544
+Maison,1840000.0,Kénitra,alliance,200,4.0,3.0,,,9200.0
+Maison,750000.0,Casablanca,Oulfa,96,3.0,2.0,,,7812.5
+Maison,560000.0,Fès,Autre secteur,120,2.0,2.0,,,4666.666666666667
+Bureau_Plateau,13450000.0,Rabat,Agdal,147,,2.0,,,91496.59863945578
+Commerce,400000.0,Kénitra,La Ville Haute,27,,,,,14814.814814814816
+Commerce,500000.0,Marrakech,Majorelle,105,,,,,4761.9047619047615
+Commerce,2700000.0,Casablanca,Sidi Maarouf,100,,,,,27000.0
+Commerce,360000.0,Tétouan,Mhannech,17,,,,,21176.470588235294
+Commerce,3200000.0,Kénitra,Maamora,128,,,,,25000.0
+Commerce,890000.0,Bouskoura,Victoria,98,,,,,9081.632653061224
+Commerce,750000.0,Deroua,Toute la ville,120,,,,,6250.0
+Commerce,1700000.0,Bouznika,Autre secteur,130,,,,,13076.923076923076
+Commerce,333000.0,Inzegan,Toute la ville,37,,,,,9000.0
+Commerce,3700000.0,Marrakech,Route de Safi,163,,,,,22699.386503067486
+Commerce,3800000.0,Ait Melloul,Toute la ville,760,,,,,5000.0
+Commerce,2500000.0,Mohammedia,El Alia,72,,,,,34722.22222222222
+Appartement,110000.0,Marrakech,Route de Safi,71,2.0,1.0,,,1549.2957746478874
+Appartement,31295000.0,Casablanca,Abdelmoumen,117,2.0,2.0,,,267478.6324786325
+Appartement,4450000.0,Casablanca,Hay Hassani,61,2.0,1.0,,,72950.81967213115
+Appartement,4900000.0,Temara,Massira 1,105,2.0,2.0,,,46666.666666666664
+Villa_Riad,3000000.0,Khouribga,Toute la ville,424,6.0,3.0,,,7075.471698113208
+Villa_Riad,6200000.0,Tanger,Jbel Kbir,520,5.0,3.0,,,11923.076923076924
+Villa_Riad,3600000.0,Temara,Oued Eddahab,360,5.0,3.0,,,10000.0
+Villa_Riad,3500000.0,Marrakech,Route d'Ourika,1500,3.0,3.0,,,2333.3333333333335
+Villa_Riad,5000000.0,Temara,Harhoura,380,3.0,2.0,,,13157.894736842105
+Maison,2660000.0,Agadir,Haut Anza,70,4.0,2.0,,,38000.0
+Maison,1300000.0,El Jadida,Autre secteur,228,7.0,3.0,3.0,,5701.754385964912
+Maison,1000000.0,Oujda,Hay Lazaret,150,5.0,3.0,,,6666.666666666667
+Villa_Riad,300000.0,Casablanca,Ain Sebaa,6000,,,,,50.0
+Maison,2500000.0,Rabat,Yacoub El Mansour,67,6.0,3.0,,,37313.432835820895
+Maison,4800000.0,Casablanca,Hay Hassani,330,8.0,4.0,,,14545.454545454544
+Maison,1700000.0,Temara,Autre secteur,107,2.0,1.0,,,15887.85046728972
+Maison,104000.0,Kénitra,Al Maghrib Al Arabi,125,6.0,2.0,,,832.0
+Maison,1950000.0,Meknès,Autre secteur,360,4.0,4.0,,,5416.666666666667
+Maison,1700000.0,Ain Aouda,Toute la ville,107,2.0,2.0,,,15887.85046728972
+Maison,750000.0,Agadir,Ben Serguaou,60,1.0,1.0,,,12500.0
+Maison,1100000.0,Agadir,Abattoirs,64,1.0,1.0,,,17187.5
+Maison,1350000.0,Kénitra,alliance,100,5.0,4.0,,,13500.0
+Bureau_Plateau,1320000.0,Casablanca,Mers Sultan,76,,1.0,,,17368.42105263158
+Bureau_Plateau,11700000.0,Tanger,Administratif,114,,2.0,,,102631.57894736843
+Bureau_Plateau,1810000.0,Casablanca,Bourgogne,34,,1.0,,,53235.294117647056
+Bureau_Plateau,41670000.0,Agadir,Sonaba,85,,1.0,,,490235.29411764705
+Bureau_Plateau,4780000.0,Agadir,Zone Industrielle Agadir,73,,1.0,,,65479.45205479452
+Commerce,240000.0,Salé,Tabriquet,11,,,,,21818.181818181816
+Commerce,1100000.0,Casablanca,Bourgogne,50,,,,,22000.0
+Commerce,1600000.0,Casablanca,Californie,153,,,,,10457.51633986928
+Terrain_Ferme,5000000.0,Marrakech,Route d'Ourika,1300,,,,,3846.153846153846
+Terrain_Ferme,1100000.0,Marrakech,Route de Fès,1200,,,,,916.6666666666666
+Terrain_Ferme,3300000.0,Mohammedia,Quartier du Parc,600,,,,,5500.0
+Terrain_Ferme,6000000.0,Casablanca,Habous,708,,,,,8474.57627118644
+Terrain_Ferme,429000.0,Tanger,Tanja Balia,78,,,,,5500.0
+Terrain_Ferme,1900000.0,Benslimane,Autre secteur,26226,,,,,72.4471898116373
+Terrain_Ferme,260000.0,Ifrane,Autre secteur,96,,,,,2708.3333333333335
+Appartement,31260000.0,Marrakech,Semlalia,84,2.0,2.0,,,372142.85714285716
+Appartement,1099800.0,Salé,Sala El Jadida,94,2.0,2.0,,,11700.0
+Appartement,1800000.0,Tanger,Autre secteur,95,3.0,1.0,,,18947.368421052633
+Appartement,412000.0,Rabat,Agdal,120,2.0,2.0,,,3433.3333333333335
+Appartement,212000.0,Rabat,Agdal,150,3.0,1.0,,,1413.3333333333333
+Appartement,417500.0,Marrakech,Guéliz,50,1.0,0.0,,,8350.0
+Appartement,116000.0,Casablanca,Gauthier,250,4.0,2.0,,,464.0
+Appartement,24216000.0,Casablanca,Racine,284,3.0,3.0,,,85267.60563380281
+Appartement,319000.0,Rabat,Mabella,200,3.0,4.0,,,1595.0
+Maison,1700000.0,Salé,Bettana,100,5.0,2.0,,,17000.0
+Villa_Riad,1340000.0,El Jadida,Al Boustane,145,3.0,2.0,,,9241.379310344828
+Villa_Riad,3200000.0,Marrakech,Route d'Amezmiz,10000,3.0,3.0,,,320.0
+Villa_Riad,3200000.0,El Jadida,Centre,520,6.0,3.0,,,6153.846153846154
+Villa_Riad,6400000.0,El Jadida,Centre,740,7.0,4.0,,,8648.648648648648
+Villa_Riad,3500000.0,Marrakech,Route de Casablanca,245,3.0,3.0,,,14285.714285714286
+Villa_Riad,2250000.0,El Jadida,Autre secteur,336,3.0,3.0,,,6696.428571428572
+Villa_Riad,1450000.0,El Jadida,Centre,140,3.0,2.0,,,10357.142857142857
+Villa_Riad,5900000.0,Marrakech,Route d'Ourika,593,4.0,2.0,,,9949.409780775717
+Villa_Riad,3400000.0,Dar Bouazza,Toute la ville,200,4.0,3.0,,,17000.0
+Villa_Riad,5300000.0,Tanger,manar,470,6.0,3.0,,,11276.595744680852
+Villa_Riad,2900000.0,Marrakech,Hay Targa,200,9.0,3.0,,,14500.0
+Villa_Riad,320000.0,Marrakech,Route de Lalla Takerkoust,10000,3.0,3.0,,,32.0
+Maison,3200000.0,Marrakech,Route de Lalla Takerkoust,10001,3.0,3.0,,,319.96800319968
+Maison,460000.0,Meknès,Sidi Bouzekri,45,4.0,,,,10222.222222222223
+Maison,2300000.0,Tanger,Tanja Balia,70,4.0,2.0,,,32857.142857142855
+Commerce,5000000.0,Marrakech,Hay Izdihar,200,,,,,25000.0
+Terrain_Ferme,674100.0,Tanger,Tanja Balia,107,,,,,6300.0
+Terrain_Ferme,636000.0,Tanger,Tanja Balia,106,,,,,6000.0
+Terrain_Ferme,6800000.0,Rabat,Autre secteur,4600,,,,,1478.2608695652175
+Terrain_Ferme,1290000.0,Bouskoura,Bouskoura centre,300,,,,,4300.0
+Terrain_Ferme,1100000.0,Temara,Wifak,107,,,,,10280.373831775702
+Appartement,390000.0,Marrakech,M'Hamid,64,2.0,1.0,,,6093.75
+Appartement,990000.0,Casablanca,Californie,73,2.0,1.0,,,13561.643835616438
+Appartement,2900000.0,Agadir,Hay Dakhla,82,3.0,2.0,,,35365.85365853659
+Appartement,1890000.0,Casablanca,Sidi Maarouf,90,2.0,1.0,,,21000.0
+Appartement,1699000.0,Meknès,Hamria,124,2.0,2.0,,,13701.612903225807
+Appartement,713000.0,Rabat,Hay Riad,110,3.0,2.0,,,6481.818181818182
+Appartement,11000000.0,Skhirat,Autre secteur,100,3.0,2.0,,,110000.0
+Appartement,11050000.0,Casablanca,Ain Sebaa,100,2.0,2.0,,,110500.0
+Appartement,1520000.0,Marrakech,Route de Casablanca,54,2.0,1.0,,,28148.14814814815
+Appartement,3850000.0,Salé,Sala El Jadida,97,2.0,0.0,,,39690.721649484534
+Appartement,380000.0,Meknès,Autre secteur,61,2.0,2.0,,,6229.508196721312
+Villa_Riad,1350000.0,El Jadida,Autre secteur,200,3.0,2.0,,,6750.0
+Villa_Riad,4200000.0,Temara,Harhoura,250,3.0,3.0,,,16800.0
+Villa_Riad,5600000.0,Sidi Bouknadel,Toute la ville,477,4.0,4.0,,,11740.041928721173
+Villa_Riad,7300000.0,Skhirat,Plage rose marae,400,3.0,3.0,,,18250.0
+Villa_Riad,3200000.0,Marrakech,Route de Casablanca,448,4.0,,,,7142.857142857143
+Villa_Riad,1600000.0,Marrakech,Route de Fès,8000,3.0,3.0,,,200.0
+Villa_Riad,3000000.0,Bouskoura,Bouskoura centre,300,4.0,3.0,,,10000.0
+Maison,160000.0,Deroua,Toute la ville,100,6.0,4.0,,,1600.0
+Maison,750000.0,Asilah,Toute la ville,700,3.0,2.0,,,1071.4285714285713
+Maison,450000.0,Azilal,Toute la ville,100,5.0,1.0,,,4500.0
+Maison,1600000.0,Meknès,Bourj Moulay Omar,384,6.0,3.0,,,4166.666666666667
+Maison,850000.0,El Jadida,Lalla Zahra,108,4.0,1.0,,,7870.37037037037
+Maison,1850000.0,Meknès,Marjane 2,100,6.0,4.0,,,18500.0
+Maison,150000.0,Azilal,Toute la ville,120,3.0,0.0,,,1250.0
+Bureau_Plateau,1900000.0,Marrakech,Guéliz,65,,1.0,,,29230.76923076923
+Commerce,1400000.0,El Jadida,Sidi Moussa,100,,,,,14000.0
+Commerce,2800000.0,Temara,Riad Oulad Mtaa,172,,,,,16279.06976744186
+Commerce,2000000.0,Casablanca,Maarif,240,,,,,8333.333333333334
+Commerce,300000.0,Kénitra,alliance,24,,,,,12500.0
+Commerce,1400000.0,Marrakech,Allal El Fassi,62,,,,,22580.645161290322
+Terrain_Ferme,800000.0,Tiznit,Toute la ville,3270,,,,,244.64831804281346
+Terrain_Ferme,700000.0,Asilah,Toute la ville,1200,,,,,583.3333333333334
+Terrain_Ferme,1300000.0,Khemisset,Toute la ville,203,,,,,6403.940886699507
+Terrain_Ferme,1345200.0,Asilah,Toute la ville,236,,,,,5700.0
+Terrain_Ferme,4600000.0,Asilah,Toute la ville,32000,,,,,143.75
+Terrain_Ferme,672600.0,Asilah,Toute la ville,118,,,,,5700.0
+Terrain_Ferme,3600000.0,Meknès,Marjane 2,12500,,,,,288.0
