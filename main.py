@@ -1,47 +1,45 @@
+# main.py
 import sys
 import os
-import pandas as pd
+from src.logger import get_logger
 from src.extraction import extract_obt
-from src.preprocessing import preprocess_for_regression # Your Step 3 file
-from src.feature_engineering import engineer_features    # Your Step 4 file
-from src.train import train_regression_model            # Your Step 5 file
+from src.preprocessing import preprocess_for_regression
+from src.feature_engineering import engineer_features
+from src.train import train_regression_model
+from src.train_classification import train_classification_model
 
-def main():
-    FORCE = "--force" in sys.argv
+logger = get_logger("main_orchestrator")
+
+def run_pipeline(force_all=False):
+    logger.info("========== STARTING REAL ESTATE ML PIPELINE ==========")
     
-    print("="*60)
-    print("  MOROCCO REAL ESTATE PIPELINE — BRIEF VERSION")
-    print(f"  force={FORCE}")
-    print("="*60)
-
-    # STEP 1: Extraction (Database execution with local file fallback)
-    df_raw = None
     try:
-        df_raw = extract_obt(force=FORCE)
+        # Step 1: Extract Data
+        logger.info("--> STEP 1: Extraction")
+        df_raw = extract_obt(save_csv=True, force=force_all)
+        
+        # Step 2: Preprocessing & Split
+        logger.info("--> STEP 2: Preprocessing")
+        X_train, X_test, y_train, y_test, _, _ = preprocess_for_regression(df_raw, force=force_all)
+        
+        # Step 3: Feature Engineering
+        logger.info("--> STEP 3: Feature Engineering")
+        X_train_eng, X_test_eng = engineer_features(X_train, X_test, force=force_all)
+        
+        # Step 4: Model Training (Regression)
+        logger.info("--> STEP 4: Regression Training (Price)")
+        reg_model, reg_metrics = train_regression_model(force=force_all)
+        
+        # Step 5: Model Training (Classification)
+        logger.info("--> STEP 5: Classification Training (Category)")
+        clf_model, clf_metrics = train_classification_model(force=force_all)
+        
+        logger.info("========== PIPELINE EXECUTED SUCCESSFULLY ==========")
+        
     except Exception as e:
-        print(f"\n[Database Offline] Using local file snapshot instead: {e}")
-        if os.path.exists("data/raw/obt_raw.csv"):
-            df_raw = pd.read_csv("data/raw/obt_raw.csv")
-        else:
-            print("[Error] data/raw/obt_raw.csv not found!")
-            return
-    
-    if df_raw is not None:
-        # This handles Split, Missing Values, and Encoding
-        X_train, X_test, y_train, y_test, encoders, scaler = preprocess_for_regression(df_raw, force=FORCE)
-
-        # We add ratios and log transforms to the split data
-        X_train_final, X_test_final = engineer_features(X_train, X_test, force=FORCE)
-
-        print("\n" + "-"*30)
-        print(f"Final Train Shape: {X_train_final.shape}")
-        print(f"Final Test Shape:  {X_test_final.shape}")
-        print("-"*30)
-
-        # STEP 4: Train and Evaluate Regression Models
-        train_regression_model(force=FORCE)
-
-    print("Pipeline execution finished.")
+        logger.error(f"Pipeline failed at a critical step: {e}")
+        sys.exit(1)
 
 if __name__ == "__main__":
-    main()
+    # Set force_all=True to ignore locks and force a full re-run today
+    run_pipeline(force_all=False)

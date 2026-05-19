@@ -1,38 +1,31 @@
+# config/config.py
 import os
 from dotenv import load_dotenv
 
-# 1. This line loads your .env file into the system
+# Load variables from .env file (if you have one)
 load_dotenv()
 
-# 2. These lines pull the actual values from your .env
+# --- DATABASE CONFIGURATION ---
 DB_CONFIG = {
+    "dbname": os.getenv("DB_NAME", "real_estate_db"),
+    "user": os.getenv("DB_USER", "postgres"),
+    "password": os.getenv("DB_PASSWORD", "admin"),
     "host": os.getenv("DB_HOST", "localhost"),
-    "port": int(os.getenv("DB_PORT", 5432)),
-    "database": os.getenv("DB_NAME"),
-    "user": os.getenv("DB_USER"),
-    "password": os.getenv("DB_PASSWORD"),
+    "port": os.getenv("DB_PORT", "5432")
 }
-
-SCHEMA = "ml_schema"
 OBT_TABLE = "ml_schema.obt_annonces"
+# --- PATHS ---
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+RAW_DATA_PATH = os.path.join(BASE_DIR, "data", "raw", "obt_snapshot.csv")
+PROCESSED_DATA_PATH = os.path.join(BASE_DIR, "data", "processed")
+MODELS_PATH = os.path.join(BASE_DIR, "models")
+LOGS_PATH = os.path.join(BASE_DIR, "logs")
 
-# Paths
-RAW_DATA_PATH       = "data/raw/obt_raw.csv"
-PROCESSED_DATA_PATH = "data/processed/"
-MODELS_PATH         = "models/"
-LOCKS_PATH          = "locks/"
-LOGS_PATH           = "logs/"
+# --- ML PARAMETERS ---
+TARGET_REGRESSION = "price_dh"
+TEST_SIZE = 0.2
+RANDOM_STATE = 42
 
-# ML settings
-TARGET_REGRESSION      = "price_dh"
-TARGET_CLASSIFICATION  = "category"
-TEST_SIZE              = 0.2
-RANDOM_STATE           = 42
-
-# Columns
-CATEGORICAL_COLS = ["category", "city", "district"]
-NUMERICAL_COLS   = [
-    "surface_m2", "rooms", "bathrooms", "floor", 
-    "property_age_years", "surface_per_room", 
-    "city_avg_price", "district_avg_price"
-]
+# Define which columns are numerical vs categorical
+NUMERICAL_COLS = ["surface_m2", "rooms", "bathrooms"]
+CATEGORICAL_COLS = ['city', 'category', 'district']
